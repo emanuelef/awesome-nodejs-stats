@@ -447,7 +447,7 @@ function App() {
               />
             }
           >
-            <h2>Awesome Rust Stats</h2>
+            <h2>Awesome NodeJS Stats</h2>
           </MenuItem>
           <MenuItem
             component={<Link to="/table" className="link" />}
