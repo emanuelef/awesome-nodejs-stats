@@ -1,512 +1,512 @@
 repo,stars,new-stars-last-30d,new-stars-last-14d,new-stars-last-7d,new-stars-last-24H,stars-per-mille-30d,days-last-star,days-last-commit,days-since-creation,mentionable-users,language,archived,dependencies,main-category,sub-category
-webtorrent/webtorrent,28441,123,45,17,3,4.325,0,0,3680,175,JavaScript,false,76,### Mad science,Mad science
-mafintosh/peerflix,6111,19,8,4,0,3.109,2,1080,3894,60,JavaScript,false,18,### Mad science,Mad science
-ipfs/js-ipfs,7445,3,2,0,0,0.403,8,170,3453,241,JavaScript,true,2,### Mad science,Mad science
-mafintosh/peerwiki,309,0,0,0,0,0.000,33,2101,3357,2,JavaScript,false,14,### Mad science,Mad science
-mafintosh/peercast,509,0,0,0,0,0.000,55,3327,3327,3,JavaScript,false,6,### Mad science,Mad science
-bitcoinjs/bitcoinjs-lib,5182,48,21,10,2,9.263,0,14,4574,93,TypeScript,false,0,### Mad science,Mad science
-bitpay/bitcore,4658,17,7,5,1,3.650,0,1,3616,146,JavaScript,false,12,### Mad science,Mad science
-foliojs/pdfkit,9059,46,19,9,1,5.078,0,1,4506,83,JavaScript,false,27,### Mad science,Mad science
-Turfjs/turf,8431,63,31,17,1,7.472,0,1,3691,151,JavaScript,false,30,### Mad science,Mad science
-mafintosh/webcat,437,0,0,0,0,0.000,40,3046,3131,2,JavaScript,false,11,### Mad science,Mad science
-NodeOS/NodeOS,6868,10,5,3,0,1.456,1,1872,3765,34,Shell,false,0,### Mad science,Mad science
-yodaos-project/yodaos,1176,6,3,2,0,5.102,3,1439,1795,7,C,false,0,### Mad science,Mad science
-BrainJS/brain.js,14008,63,26,10,2,4.497,0,201,2828,99,TypeScript,false,0,### Mad science,Mad science
-alibaba/pipcook,2471,7,3,0,0,2.833,10,73,1438,42,TypeScript,false,0,### Mad science,Mad science
-cytoscape/cytoscape.js,9423,52,26,16,3,5.518,0,1,4463,135,JavaScript,false,29,### Mad science,Mad science
-creationix/js-git,3820,2,1,1,0,0.524,2,1595,3878,25,JavaScript,false,4,### Mad science,Mad science
-SheetJS/sheetjs,33801,161,88,44,7,4.763,0,304,3995,181,JavaScript,false,24,### Mad science,Mad science
-isomorphic-git/isomorphic-git,7090,50,21,12,1,7.052,0,3,2296,79,JavaScript,false,80,### Mad science,Mad science
-sindresorhus/np,7243,15,11,6,1,2.071,0,4,3010,88,JavaScript,false,50,### Command-line apps,Command-line apps
-sindresorhus/npm-name,164,2,2,0,0,12.195,9,28,3499,16,JavaScript,false,15,### Command-line apps,Command-line apps
-sindresorhus/gh-home,190,1,0,0,0,5.263,17,758,2860,3,JavaScript,false,8,### Command-line apps,Command-line apps
-sindresorhus/npm-home,191,1,1,0,0,5.236,7,71,2860,6,JavaScript,false,11,### Command-line apps,Command-line apps
-sindresorhus/trash,2520,6,3,2,0,2.381,4,22,3468,24,JavaScript,false,13,### Command-line apps,Command-line apps
-sindresorhus/speed-test,3883,5,3,1,0,1.288,3,708,3012,8,JavaScript,false,11,### Command-line apps,Command-line apps
-sindresorhus/pageres,9582,11,8,6,1,1.148,0,6,3564,31,TypeScript,false,0,### Command-line apps,Command-line apps
-sindresorhus/cpy,416,1,1,1,0,2.404,2,7,3423,29,JavaScript,false,12,### Command-line apps,Command-line apps
-MrRio/vtop,4063,9,2,2,0,2.215,3,1893,3453,28,JavaScript,false,9,### Command-line apps,Command-line apps
-sindresorhus/empty-trash,131,0,0,0,0,0.000,100,759,3331,6,JavaScript,false,8,### Command-line apps,Command-line apps
-sindresorhus/is-up,385,0,0,0,0,0.000,69,784,3367,7,JavaScript,false,4,### Command-line apps,Command-line apps
-sindresorhus/is-online,1187,5,2,0,0,4.212,10,144,3340,13,JavaScript,false,7,### Command-line apps,Command-line apps
-sindresorhus/public-ip,983,5,3,2,0,5.086,2,94,3345,14,JavaScript,false,9,### Command-line apps,Command-line apps
-sindresorhus/clipboard-cli,484,3,1,0,0,6.198,8,20,2533,3,JavaScript,false,6,### Command-line apps,Command-line apps
-xojs/xo,7400,64,21,6,0,8.649,1,91,3024,86,JavaScript,false,45,### Command-line apps,Command-line apps
-eslint/eslint,23581,149,72,36,7,6.319,0,2,3787,975,JavaScript,false,98,### Command-line apps,Command-line apps
-alanshaw/david,962,1,0,0,0,1.040,14,884,3946,23,JavaScript,false,15,### Command-line apps,Command-line apps
-http-party/http-server,12988,69,27,12,1,5.313,0,529,4531,88,JavaScript,false,19,### Command-line apps,Command-line apps
-tapio/live-server,4233,22,7,5,0,5.197,1,563,3984,27,JavaScript,false,17,### Command-line apps,Command-line apps
-kessler/node-bcat,338,0,0,0,0,0.000,68,547,3585,3,JavaScript,false,8,### Command-line apps,Command-line apps
-pawurb/normit,238,1,0,0,0,4.202,26,2427,3405,3,JavaScript,false,15,### Command-line apps,Command-line apps
-sindresorhus/fkill-cli,6780,14,4,1,0,2.065,6,5,3066,11,JavaScript,false,18,### Command-line apps,Command-line apps
-danielstjules/pjs,416,1,0,0,0,2.404,28,2445,3382,7,JavaScript,false,10,### Command-line apps,Command-line apps
-davglass/license-checker,1541,12,6,4,0,7.787,4,1766,3953,45,JavaScript,false,22,### Command-line apps,Command-line apps
-juliangruber/browser-run,430,1,0,0,0,2.326,27,9,3886,17,JavaScript,false,18,### Command-line apps,Command-line apps
-sindresorhus/tmpin,124,0,0,0,0,0.000,92,816,3433,2,JavaScript,false,5,### Command-line apps,Command-line apps
-sindresorhus/wallpaper,999,5,1,1,0,5.005,5,14,3145,18,JavaScript,false,3,### Command-line apps,Command-line apps
-hatashiro/pen,325,0,0,0,0,0.000,69,1472,2983,4,JavaScript,false,37,### Command-line apps,Command-line apps
-sindresorhus/dark-mode,646,3,2,1,0,4.644,4,929,3312,3,Swift,false,0,### Command-line apps,Command-line apps
-Javascipt/Jsome,239,0,0,0,0,0.000,53,2109,2955,5,JavaScript,false,5,### Command-line apps,Command-line apps
-samverschueren/mobicon-cli,108,3,2,0,0,27.778,7,1527,2881,1,JavaScript,false,9,### Command-line apps,Command-line apps
-samverschueren/mobisplash-cli,68,2,1,0,0,29.412,7,2417,2866,1,JavaScript,false,11,### Command-line apps,Command-line apps
-rtfpessoa/diff2html-cli,468,14,7,3,0,29.915,2,97,3136,11,TypeScript,false,0,### Command-line apps,Command-line apps
-victorb/trymodule,1133,1,1,1,0,0.883,5,2486,2799,6,JavaScript,false,4,### Command-line apps,Command-line apps
-kucherenko/jscpd,3258,58,19,11,1,17.802,0,55,3819,48,TypeScript,false,0,### Command-line apps,Command-line apps
-Raathigesh/Atmo,814,0,0,0,0,0.000,43,2137,2730,5,TypeScript,false,0,### Command-line apps,Command-line apps
-siddharthkp/auto-install,1191,2,2,1,0,1.679,5,909,2652,10,JavaScript,false,19,### Command-line apps,Command-line apps
-siddharthkp/cost-of-modules,2800,3,2,1,0,1.071,4,114,2571,7,JavaScript,false,11,### Command-line apps,Command-line apps
-localtunnel/localtunnel,16990,132,62,33,4,7.769,0,465,4164,35,JavaScript,false,5,### Command-line apps,Command-line apps
-marionebl/svg-term-cli,3341,17,8,7,2,5.088,0,1582,2177,5,JavaScript,false,32,### Command-line apps,Command-line apps
-aksakalli/gtop,9529,29,13,9,2,3.043,0,92,2285,9,JavaScript,false,5,### Command-line apps,Command-line apps
-themerdev/themer,5275,18,10,5,1,3.412,0,140,2546,14,TypeScript,false,0,### Command-line apps,Command-line apps
-mixn/carbon-now-cli,5576,29,14,11,2,5.201,0,58,1958,5,TypeScript,false,0,### Command-line apps,Command-line apps
-xxczaki/cash-cli,216,4,2,1,0,18.519,3,1443,2223,6,JavaScript,false,11,### Command-line apps,Command-line apps
-klaussinani/taskbook,8826,16,9,6,1,1.813,0,426,2099,28,JavaScript,false,6,### Command-line apps,Command-line apps
-brandonweiss/discharge,538,3,2,1,0,5.576,1,1175,2259,5,JavaScript,false,18,### Command-line apps,Command-line apps
-voidcosmos/npkill,7573,44,19,8,2,5.810,0,25,1596,25,TypeScript,false,0,### Command-line apps,Command-line apps
-lodash/lodash,57856,238,101,53,6,4.114,0,45,4236,288,JavaScript,false,16,### Functional programming,Functional programming
-immutable-js/immutable-js,32721,41,15,8,0,1.253,2,75,3420,214,TypeScript,false,0,### Functional programming,Functional programming
-ramda/ramda,23350,64,26,16,3,2.741,0,9,3795,323,JavaScript,false,32,### Functional programming,Functional programming
-mout/mout,1283,2,1,0,0,1.559,10,418,3958,41,JavaScript,false,11,### Functional programming,Functional programming
-reactivex/rxjs,29601,133,75,39,3,4.493,0,1,3164,549,TypeScript,false,0,### Functional programming,Functional programming
-kefirjs/kefir,1851,4,2,1,0,2.161,2,245,3478,44,JavaScript,false,21,### Functional programming,Functional programming
-sindresorhus/got,13557,85,36,15,2,6.270,0,28,3516,185,TypeScript,false,0,### HTTP,HTTP
-nodejs/undici,5047,52,22,13,2,10.303,0,0,2010,226,JavaScript,false,37,### HTTP,HTTP
-sindresorhus/ky-universal,662,4,1,0,0,6.042,11,71,1723,9,JavaScript,false,5,### HTTP,HTTP
-node-fetch/node-fetch,8520,32,12,7,0,3.756,2,110,3212,123,JavaScript,false,19,### HTTP,HTTP
-axios/axios,102469,460,194,111,20,4.489,0,3,3372,430,JavaScript,false,59,### HTTP,HTTP
-visionmedia/superagent,16439,23,11,4,2,1.399,0,74,4596,259,JavaScript,false,46,### HTTP,HTTP
-micromata/http-fake-backend,302,18,3,0,0,59.603,7,22,2808,44,JavaScript,true,20,### HTTP,HTTP
-lukechilds/cacheable-request,279,4,1,1,0,14.337,4,16,2354,16,TypeScript,false,0,### HTTP,HTTP
-khaosdoctor/gotql,400,0,0,0,0,0.000,50,41,2174,10,TypeScript,false,0,### HTTP,HTTP
-gajus/global-agent,320,6,2,1,0,18.750,2,95,1662,10,TypeScript,false,0,### HTTP,HTTP
-sinedied/smoke,171,1,1,0,0,5.848,9,116,1817,4,JavaScript,false,18,### HTTP,HTTP
-simov/purest,538,0,0,0,0,0.000,37,325,3429,3,JavaScript,false,8,### HTTP,HTTP
-debug-js/debug,10864,37,15,4,0,3.406,3,161,4366,113,JavaScript,false,12,### Debugging / Profiling,Debugging / Profiling
-mafintosh/why-is-node-running,1609,2,1,0,0,1.243,12,564,2832,14,JavaScript,false,2,### Debugging / Profiling,Debugging / Profiling
-valyouw/njstrace,358,0,0,0,0,0.000,53,872,3534,1,JavaScript,false,6,### Debugging / Profiling,Debugging / Profiling
-joyent/node-vstream,55,0,0,0,0,0.000,404,739,3386,6,JavaScript,false,4,### Debugging / Profiling,Debugging / Profiling
-watson/stackman,247,0,0,0,0,0.000,69,1335,3392,2,JavaScript,false,9,### Debugging / Profiling,Debugging / Profiling
-alidavut/locus,306,1,0,0,0,3.268,14,1463,3622,4,JavaScript,true,12,### Debugging / Profiling,Debugging / Profiling
-davidmarkclements/0x,2963,22,9,5,1,7.425,0,68,2819,39,JavaScript,false,32,### Debugging / Profiling,Debugging / Profiling
-automation-stack/ctrace,120,0,0,0,0,0.000,76,2704,2718,2,JavaScript,false,4,### Debugging / Profiling,Debugging / Profiling
-andywer/leakage,1582,0,0,0,0,0.000,61,288,2511,4,JavaScript,false,8,### Debugging / Profiling,Debugging / Profiling
-nodejs/llnode,1092,2,1,1,0,1.832,2,370,2928,58,C++,false,0,### Debugging / Profiling,Debugging / Profiling
-sfninja/thetool,213,1,0,0,0,4.695,15,1581,1646,1,JavaScript,false,4,### Debugging / Profiling,Debugging / Profiling
-slanatech/swagger-stats,845,6,2,0,0,7.101,10,148,2449,16,JavaScript,false,35,### Debugging / Profiling,Debugging / Profiling
-june07/nim,192,1,0,0,0,5.208,27,4,2554,15,JavaScript,false,49,### Debugging / Profiling,Debugging / Profiling
-immobiliare/dats,79,2,0,0,0,25.316,18,1,752,13,TypeScript,false,0,### Debugging / Profiling,Debugging / Profiling
-pinojs/pino,12373,156,60,27,1,12.608,0,19,2825,284,JavaScript,false,50,### Logging,Logging
-winstonjs/winston,21313,153,59,24,2,7.179,0,3,4700,367,JavaScript,false,28,### Logging,Logging
-watson/console-log-level,105,0,0,0,0,0.000,69,1702,3232,3,JavaScript,false,2,### Logging,Logging
-guigrpa/storyboard,742,0,0,0,0,0.000,38,1007,2821,3,JavaScript,false,32,### Logging,Logging
-unjs/consola,4932,227,64,46,0,46.026,1,25,2051,42,TypeScript,false,0,### Logging,Logging
-chalk/chalk,20868,109,53,23,2,5.223,0,88,3753,57,JavaScript,false,10,### Command-line utilities,Command-line utilities
-sindresorhus/meow,3328,15,6,3,0,4.507,1,76,3317,43,JavaScript,false,28,### Command-line utilities,Command-line utilities
-yargs/yargs,10728,42,13,3,0,3.915,1,194,3656,269,JavaScript,false,30,### Command-line utilities,Command-line utilities
-sindresorhus/ora,8691,42,17,12,0,4.833,1,102,2809,48,JavaScript,false,15,### Command-line utilities,Command-line utilities
-sindresorhus/get-stdin,333,1,1,1,1,3.003,0,28,3558,11,JavaScript,false,5,### Command-line utilities,Command-line utilities
-sindresorhus/log-update,1046,23,21,19,3,21.989,0,14,3010,16,JavaScript,false,11,### Command-line utilities,Command-line utilities
-vadimdemedes/ink,24856,185,109,65,6,7.443,0,0,2344,103,TypeScript,false,0,### Command-line utilities,Command-line utilities
-listr2/listr2,405,11,4,1,0,27.160,5,1,1353,18,TypeScript,false,0,### Command-line utilities,Command-line utilities
-sindresorhus/conf,1134,14,5,4,1,12.346,0,18,2699,44,TypeScript,false,0,### Command-line utilities,Command-line utilities
-sindresorhus/ansi-escapes,457,3,3,2,1,6.565,0,87,3011,15,JavaScript,false,5,### Command-line utilities,Command-line utilities
-sindresorhus/log-symbols,721,0,0,0,0,0.000,39,20,3412,11,JavaScript,false,6,### Command-line utilities,Command-line utilities
-sindresorhus/figures,568,4,2,1,0,7.042,5,13,3412,11,JavaScript,false,4,### Command-line utilities,Command-line utilities
-sindresorhus/boxen,1447,10,5,3,0,6.911,1,75,2882,22,JavaScript,false,12,### Command-line utilities,Command-line utilities
-sindresorhus/terminal-link,592,5,1,0,0,8.446,13,268,2047,9,JavaScript,false,5,### Command-line utilities,Command-line utilities
-sindresorhus/terminal-image,938,1,0,0,0,1.066,14,411,2013,6,JavaScript,false,9,### Command-line utilities,Command-line utilities
-sindresorhus/string-width,418,3,3,2,0,7.177,1,15,3040,12,JavaScript,false,6,### Command-line utilities,Command-line utilities
-sindresorhus/cli-truncate,83,0,0,0,0,0.000,172,14,2802,8,JavaScript,false,5,### Command-line utilities,Command-line utilities
-chjj/blessed,11012,24,11,5,1,2.179,0,2869,3940,12,JavaScript,false,0,### Command-line utilities,Command-line utilities
-SBoudrias/Inquirer.js,18747,114,55,28,0,6.081,1,4,3831,201,JavaScript,false,22,### Command-line utilities,Command-line utilities
-sindresorhus/yn,250,0,0,0,0,0.000,59,491,3384,11,JavaScript,false,3,### Command-line utilities,Command-line utilities
-cli-table/cli-table3,473,5,2,1,0,10.571,4,231,1981,20,JavaScript,false,9,### Command-line utilities,Command-line utilities
-madbence/node-drawille,995,1,0,0,0,1.005,28,391,3477,9,JavaScript,false,2,### Command-line utilities,Command-line utilities
-jstrace/chart,234,0,0,0,0,0.000,36,2592,3544,3,JavaScript,false,5,### Command-line utilities,Command-line utilities
-visionmedia/node-progress,2903,5,2,0,0,1.722,10,1802,4588,39,JavaScript,false,0,### Command-line utilities,Command-line utilities
-yeoman/insight,553,0,0,0,0,0.000,145,824,3986,40,JavaScript,false,14,### Command-line utilities,Command-line utilities
-sindresorhus/cli-cursor,95,0,0,0,0,0.000,46,810,3360,6,JavaScript,false,5,### Command-line utilities,Command-line utilities
-shannonmoeller/cli-columns,32,0,0,0,0,0.000,38,739,2828,3,JavaScript,false,3,### Command-line utilities,Command-line utilities
-dominikwilkowski/cfonts,1454,15,9,3,1,10.316,0,80,3226,11,Rust,false,0,### Command-line utilities,Command-line utilities
-codekirei/node-multispinner,291,0,0,0,0,0.000,99,2867,2952,1,JavaScript,false,12,### Command-line utilities,Command-line utilities
-f/omelette,1364,5,0,0,0,3.666,16,659,3852,16,CoffeeScript,false,0,### Command-line utilities,Command-line utilities
-kentcdodds/cross-env,6179,21,11,4,0,3.399,2,1040,2963,49,JavaScript,true,2,### Command-line utilities,Command-line utilities
-shelljs/shelljs,14002,37,16,7,0,2.642,2,0,4271,84,JavaScript,false,16,### Command-line utilities,Command-line utilities
-sindresorhus/sudo-block,98,1,1,1,0,10.204,1,72,3794,7,JavaScript,false,8,### Command-line utilities,Command-line utilities
-sindresorhus/sparkly,421,0,0,0,0,0.000,71,721,3363,7,JavaScript,false,4,### Command-line utilities,Command-line utilities
-teambit/bit,17107,69,40,21,1,4.033,0,1,2484,73,TypeScript,false,0,### Command-line utilities,Command-line utilities
-bokub/gradient-string,969,6,2,1,1,6.192,0,432,2307,1,JavaScript,false,8,### Command-line utilities,Command-line utilities
-oclif/oclif,8609,49,18,10,1,5.692,0,25,2130,54,TypeScript,false,0,### Command-line utilities,Command-line utilities
-sindresorhus/terminal-size,134,0,0,0,0,0.000,69,7,2619,11,JavaScript,false,4,### Command-line utilities,Command-line utilities
-drew-y/cliffy,336,1,0,0,0,2.976,28,515,2111,8,TypeScript,false,0,### Command-line utilities,Command-line utilities
-google/zx,38930,264,129,70,20,6.781,0,67,921,48,JavaScript,false,22,### Command-line utilities,Command-line utilities
-parcel-bundler/parcel,42779,103,58,31,8,2.408,0,3,2287,396,JavaScript,false,22,### Build tools,Build tools
-webpack/webpack,63644,138,56,32,5,2.168,0,29,4264,803,JavaScript,false,96,### Build tools,Build tools
-rollup/rollup,24107,153,66,39,5,6.347,0,0,3103,358,JavaScript,false,79,### Build tools,Build tools
-gulpjs/gulp,32837,31,16,9,1,0.944,0,327,3783,247,JavaScript,false,12,### Build tools,Build tools
-broccolijs/broccoli,3337,4,1,1,0,1.199,2,774,3834,53,JavaScript,false,58,### Build tools,Build tools
-brunch/brunch,6825,0,0,0,0,0.000,42,305,4678,126,JavaScript,true,27,### Build tools,Build tools
-fuse-box/fuse-box,4019,1,0,0,0,0.249,28,346,2571,170,JavaScript,true,77,### Build tools,Build tools
-vercel/pkg,23907,130,65,30,2,5.438,0,116,2651,246,JavaScript,false,37,### Build tools,Build tools
-vitejs/vite,60891,702,340,151,22,11.529,0,0,1300,864,TypeScript,false,0,### Build tools,Build tools
-rwaldron/johnny-five,13117,18,11,5,0,1.372,1,233,4243,135,JavaScript,false,22,### Hardware,Hardware
-serialport/node-serialport,5563,21,12,5,0,3.775,3,3,4814,165,TypeScript,false,0,### Hardware,Hardware
-node-usb/node-usb,1453,11,5,4,0,7.571,1,13,4213,41,TypeScript,false,0,### Hardware,Hardware
-fivdi/i2c-bus,339,5,3,2,0,14.749,2,97,3259,5,JavaScript,false,12,### Hardware,Hardware
-fivdi/onoff,1208,4,3,2,0,3.311,6,777,4035,13,JavaScript,false,12,### Hardware,Hardware
-fivdi/spi-device,116,1,1,1,0,8.621,6,777,2735,3,C++,false,0,### Hardware,Hardware
-fivdi/pigpio,929,7,4,2,0,7.535,2,777,2951,11,JavaScript,false,3,### Hardware,Hardware
-infusion/GPS.js,239,1,1,1,0,4.184,6,594,2846,9,JavaScript,false,9,### Hardware,Hardware
-yaacov/node-modbus-serial,556,10,6,5,0,17.986,3,20,2926,68,JavaScript,false,16,### Hardware,Hardware
-marko-js/marko,12896,76,30,14,1,5.893,0,1,3595,119,JavaScript,false,52,### Templating,Templating
-mozilla/nunjucks,8297,34,18,9,0,4.098,2,206,4112,144,JavaScript,false,32,### Templating,Templating
-handlebars-lang/handlebars.js,17466,54,36,21,2,3.092,0,51,4851,187,JavaScript,false,45,### Templating,Templating
-mde/ejs,7339,49,18,15,3,6.677,0,168,3237,120,JavaScript,false,8,### Templating,Templating
-pugjs/pug,21376,45,30,15,2,2.105,0,688,4890,252,JavaScript,false,5,### Templating,Templating
-fastify/fastify,29002,336,180,75,9,11.585,0,1,2600,679,JavaScript,false,59,### Web frameworks,Web frameworks
-vercel/next.js,114486,1624,689,316,37,14.185,0,0,2593,2972,JavaScript,false,177,### Web frameworks,Web frameworks
-nuxt/nuxt.js,48365,686,310,164,17,14.184,0,2,2573,585,TypeScript,false,0,### Web frameworks,Web frameworks
-hapijs/hapi,14404,37,17,7,1,2.569,0,55,4481,216,JavaScript,false,30,### Web frameworks,Web frameworks
-vercel/micro,10508,20,6,3,0,1.903,2,312,2850,344,TypeScript,false,0,### Web frameworks,Web frameworks
-koajs/koa,34470,113,57,32,5,3.278,0,3,3766,237,JavaScript,false,29,### Web frameworks,Web frameworks
-expressjs/express,62259,271,122,71,11,4.353,0,160,5251,327,JavaScript,false,48,### Web frameworks,Web frameworks
-feathersjs/feathers,14799,35,16,7,1,2.365,0,4,4406,223,TypeScript,false,0,### Web frameworks,Web frameworks
-loopbackio/loopback-next,4676,27,16,11,0,5.774,0,0,2497,217,TypeScript,false,0,### Web frameworks,Web frameworks
-meteor/meteor,43836,92,43,23,3,2.099,0,0,4315,707,JavaScript,false,2,### Web frameworks,Web frameworks
-restify/node-restify,10671,17,8,2,0,1.593,2,93,4583,206,JavaScript,false,45,### Web frameworks,Web frameworks
-thinkjs/thinkjs,5308,6,2,1,0,1.130,6,155,3697,50,JavaScript,false,28,### Web frameworks,Web frameworks
-actionhero/actionhero,2377,5,3,2,1,2.103,0,5,4425,103,TypeScript,false,0,### Web frameworks,Web frameworks
-senecajs/seneca,3930,3,3,2,1,0.763,0,3,4769,59,JavaScript,false,32,### Web frameworks,Web frameworks
-adonisjs/core,14464,108,47,26,3,7.467,0,51,3010,58,TypeScript,false,0,### Web frameworks,Web frameworks
-moleculerjs/moleculer,5871,27,12,7,0,4.599,1,42,2459,116,JavaScript,false,66,### Web frameworks,Web frameworks
-nestjs/nest,60891,704,364,176,12,11.562,0,2,2471,426,TypeScript,false,0,### Web frameworks,Web frameworks
-MichalLytek/type-graphql,7873,18,6,0,0,2.286,8,13,2132,76,TypeScript,false,0,### Web frameworks,Web frameworks
-tinyhttp/tinyhttp,2534,31,12,6,1,12.234,0,15,1247,59,TypeScript,false,0,### Web frameworks,Web frameworks
-marblejs/marble,2122,5,2,1,0,2.356,1,251,2013,18,TypeScript,false,0,### Web frameworks,Web frameworks
-ladjs/lad,2246,2,1,1,0,0.890,2,563,4378,10,JavaScript,false,29,### Web frameworks,Web frameworks
-tsedio/tsed,2640,27,15,5,0,10.227,1,3,2820,133,TypeScript,false,0,### Web frameworks,Web frameworks
-documentationjs/documentation,5733,6,1,0,0,1.047,12,123,3169,130,JavaScript,false,51,### Documentation,Documentation
-jashkenas/docco,3526,5,3,1,0,1.418,4,589,5004,88,HTML,false,0,### Documentation,Documentation
-jsdoc/jsdoc,14363,94,46,29,3,6.545,0,1,4992,79,JavaScript,false,31,### Documentation,Documentation
-facebook/docusaurus,49277,810,418,177,18,16.438,0,0,2335,1175,TypeScript,false,0,### Documentation,Documentation
-sindresorhus/del,1306,1,1,0,0,0.766,13,73,3430,23,JavaScript,false,14,### Filesystem,Filesystem
-sindresorhus/globby,2391,11,7,6,2,4.601,0,2,3430,48,JavaScript,false,14,### Filesystem,Filesystem
-paulmillr/chokidar,10277,72,31,21,0,7.006,1,62,4222,104,JavaScript,false,17,### Filesystem,Filesystem
-sindresorhus/find-up,557,6,5,2,0,10.772,3,385,2994,15,JavaScript,false,7,### Filesystem,Filesystem
-moxystudio/node-proper-lockfile,221,2,1,0,0,9.050,9,1020,3409,12,JavaScript,false,19,### Filesystem,Filesystem
-sindresorhus/load-json-file,235,1,1,1,0,4.255,6,179,2993,15,JavaScript,false,3,### Filesystem,Filesystem
-sindresorhus/write-json-file,209,1,1,1,0,4.785,4,392,2993,10,JavaScript,false,8,### Filesystem,Filesystem
-npm/fs-write-stream-atomic,48,0,0,0,0,0.000,404,1752,3340,146,JavaScript,true,7,### Filesystem,Filesystem
-sindresorhus/filenamify,466,5,1,1,0,10.730,5,202,3224,13,JavaScript,false,4,### Filesystem,Filesystem
-bevry/istextorbinary,131,25,24,12,1,190.840,0,10,3624,7,TypeScript,false,0,### Filesystem,Filesystem
-szwacz/fs-jetpack,761,2,1,0,0,2.628,8,383,3687,14,TypeScript,false,0,### Filesystem,Filesystem
-jprichardson/node-fs-extra,9217,42,17,11,1,4.557,0,16,4378,89,JavaScript,false,11,### Filesystem,Filesystem
-sindresorhus/pkg-dir,227,2,2,0,0,8.811,8,8,2994,9,JavaScript,false,5,### Filesystem,Filesystem
-nspragg/filehound,219,0,0,0,0,0.000,53,560,2808,11,JavaScript,false,18,### Filesystem,Filesystem
-sindresorhus/move-file,198,0,0,0,0,0.000,52,7,2200,4,JavaScript,false,8,### Filesystem,Filesystem
-sindresorhus/tempy,406,6,5,3,0,14.778,3,124,2420,8,JavaScript,false,10,### Filesystem,Filesystem
-sindresorhus/pify,1495,3,2,1,0,2.007,2,426,2997,15,JavaScript,false,5,### Control flow,Control flow
-sindresorhus/delay,589,5,3,1,0,8.489,2,151,2921,16,JavaScript,false,5,### Control flow,Control flow
-nodeca/promise-memoize,58,0,0,0,0,0.000,114,2220,2731,3,JavaScript,false,8,### Control flow,Control flow
-lpinca/valvelet,38,0,0,0,0,0.000,321,56,2718,2,JavaScript,false,3,### Control flow,Control flow
-sindresorhus/p-map,1085,6,2,2,0,5.530,1,204,2578,14,JavaScript,false,7,### Control flow,Control flow
-ReactiveX/RxJS,29601,133,75,39,3,4.493,0,1,3164,549,TypeScript,false,0,### Control flow,Control flow
-sindresorhus/awesome-observables,331,1,1,0,0,3.021,8,759,2749,3,,false,0,### Control flow,Control flow
-caolan/highland,3428,3,1,1,0,0.875,4,1242,4096,60,JavaScript,false,26,### Control flow,Control flow
-sindresorhus/get-stream,326,3,1,0,0,9.202,11,14,2950,17,JavaScript,false,6,### Streams,Streams
-hughsk/from2,131,0,0,0,0,0.000,117,2644,3562,6,JavaScript,false,3,### Streams,Streams
-sindresorhus/into-stream,204,1,0,0,0,4.902,14,169,3088,9,JavaScript,false,5,### Streams,Streams
-mafintosh/duplexify,186,1,1,0,0,5.376,13,844,3414,11,JavaScript,false,7,### Streams,Streams
-mafintosh/pumpify,251,0,0,0,0,0.000,69,1360,3410,5,JavaScript,false,5,### Streams,Streams
-mafintosh/peek-stream,55,0,0,0,0,0.000,225,2061,3398,2,JavaScript,false,5,### Streams,Streams
-maxogden/binary-split,77,1,1,0,0,12.987,10,1846,3718,6,JavaScript,false,3,### Streams,Streams
-jahewson/node-byline,323,0,0,0,0,0.000,69,2670,4455,3,JavaScript,false,2,### Streams,Streams
-sindresorhus/first-chunk-stream,27,0,0,0,0,0.000,196,10,3457,8,JavaScript,false,7,### Streams,Streams
-sindresorhus/pad-stream,11,0,0,0,0,0.000,69,72,3213,2,JavaScript,false,7,### Streams,Streams
-feross/multistream,284,0,0,0,0,0.000,44,1011,3416,9,JavaScript,false,9,### Streams,Streams
-nodejs/readable-stream,1010,2,0,0,0,1.980,22,132,4126,79,JavaScript,false,32,### Streams,Streams
-almost/through2-concurrent,74,0,0,0,0,0.000,404,1731,3320,5,JavaScript,false,4,### Streams,Streams
-uNetworking/uWebSockets,16222,115,52,21,2,7.089,0,6,2792,96,C++,false,0,### Real-time,Real-time
-socketio/socket.io,59277,217,110,59,8,3.661,0,32,4993,218,TypeScript,false,0,### Real-time,Real-time
-faye/faye,4383,5,2,1,0,1.141,5,1198,5272,37,JavaScript,false,13,### Real-time,Real-time
-SocketCluster/socketcluster,6097,9,2,1,0,1.476,2,4,3702,28,JavaScript,false,3,### Real-time,Real-time
-primus/primus,4434,7,2,0,0,1.579,11,5,3792,61,JavaScript,false,48,### Real-time,Real-time
-deepstreamIO/deepstream.io-client-js,293,0,0,0,0,0.000,203,162,3268,28,TypeScript,false,0,### Real-time,Real-time
-kalm/kalm.js,201,2,2,2,0,9.950,2,234,2445,4,TypeScript,false,0,### Real-time,Real-time
-mqttjs/MQTT.js,7991,52,21,10,1,6.507,0,2,4604,192,TypeScript,false,0,### Real-time,Real-time
-elpheria/rpc-websockets,530,2,0,0,0,3.774,22,13,2587,21,JavaScript,false,23,### Real-time,Real-time
-moscajs/aedes,1671,10,6,4,0,5.984,3,3,3173,50,JavaScript,false,31,### Real-time,Real-time
-lovell/sharp,26647,252,118,52,9,9.457,0,54,3736,187,JavaScript,false,22,### Image,Image
-sindresorhus/image-type,354,6,5,4,0,16.949,1,6,3491,6,JavaScript,false,6,### Image,Image
-sindresorhus/image-dimensions,209,209,209,209,16,1000.000,0,4,6,3,JavaScript,false,3,### Image,Image
-aheckmann/gm,6890,10,6,2,1,1.451,0,416,4902,74,JavaScript,false,5,### Image,Image
-EyalAr/lwip,2354,4,2,1,0,1.699,5,2672,3423,12,C,false,0,### Image,Image
-nodeca/pica,3453,15,8,3,1,4.344,0,666,3360,23,JavaScript,false,18,### Image,Image
-oliver-moran/jimp,13089,60,21,15,2,4.584,0,108,3346,153,JavaScript,false,41,### Image,Image
-soldair/node-qrcode,6886,51,26,11,3,7.406,0,204,4709,44,JavaScript,false,20,### Image,Image
-matmen/ImageScript,546,8,4,2,0,14.652,2,6,1092,6,JavaScript,false,0,### Image,Image
-ashtuchkin/iconv-lite,2951,10,3,0,0,3.389,12,630,4385,35,JavaScript,false,9,### Text,Text
-sindresorhus/string-length,156,2,0,0,0,12.821,17,161,3496,9,JavaScript,false,4,### Text,Text
-sindresorhus/camelcase,656,9,5,3,1,13.720,0,44,3318,28,JavaScript,false,3,### Text,Text
-sindresorhus/escape-string-regexp,558,2,0,0,0,3.584,17,938,3427,6,JavaScript,false,3,### Text,Text
-sindresorhus/splice-string,22,0,0,0,0,0.000,69,941,3006,2,JavaScript,false,3,### Text,Text
-sindresorhus/indent-string,109,0,0,0,0,0.000,69,525,3445,10,JavaScript,false,3,### Text,Text
-sindresorhus/strip-indent,131,0,0,0,0,0.000,69,786,3514,7,JavaScript,false,4,### Text,Text
-sindresorhus/detect-indent,190,1,0,0,0,5.263,18,34,3745,13,JavaScript,false,4,### Text,Text
-mathiasbynens/he,3305,15,6,3,1,4.539,0,1875,3792,7,JavaScript,false,14,### Text,Text
-mashpie/i18n-node,3046,4,1,0,0,1.313,10,25,4614,58,JavaScript,false,26,### Text,Text
-nodeca/babelfish,250,0,0,0,0,0.000,55,712,4365,9,JavaScript,false,11,### Text,Text
-sindresorhus/matcher,533,0,0,0,0,0.000,65,770,2837,12,JavaScript,false,5,### Text,Text
-nodeca/unhomoglyph,34,0,0,0,0,0.000,74,1273,2529,6,JavaScript,false,2,### Text,Text
-i18next/i18next,7081,69,36,17,1,9.744,0,1,4349,209,JavaScript,false,55,### Text,Text
-ai/nanoid,22002,211,112,69,6,9.590,0,6,2290,124,JavaScript,false,30,### Text,Text
-kurolabs/stegcloak,3060,30,14,11,0,9.804,2,560,1292,8,JavaScript,false,24,### Text,Text
-sindresorhus/random-int,85,0,0,0,0,0.000,69,938,3060,4,JavaScript,false,5,### Number,Number
-sindresorhus/random-float,33,0,0,0,0,0.000,69,937,3060,4,JavaScript,false,6,### Number,Number
-sindresorhus/unique-random,115,0,0,0,0,0.000,69,491,3650,4,JavaScript,false,3,### Number,Number
-sindresorhus/round-to,153,0,0,0,0,0.000,87,99,3012,8,JavaScript,false,3,### Number,Number
-scijs/ndarray,1166,4,0,0,0,3.431,16,1407,3911,14,JavaScript,false,6,### Math,Math
-josdejong/mathjs,13636,78,35,19,1,5.720,0,3,3921,211,JavaScript,false,65,### Math,Math
-sindresorhus/math-clamp,11,0,0,0,0,0.000,69,7,3051,3,JavaScript,false,2,### Math,Math
-fibo/algebra,105,0,0,0,0,0.000,71,182,4078,2,TypeScript,false,0,### Math,Math
-nodeca/multimath,66,0,0,0,0,0.000,183,914,2401,5,JavaScript,false,8,### Math,Math
-moment/luxon,14421,95,47,30,4,6.588,0,28,2904,225,JavaScript,false,20,### Date,Date
-date-fns/date-fns,32577,181,87,49,5,5.556,0,0,3324,374,TypeScript,false,0,### Date,Date
-iamkun/dayjs,44630,321,127,67,4,7.192,0,38,2042,329,JavaScript,false,29,### Date,Date
-felixge/node-dateformat,1293,1,0,0,0,0.773,28,631,4626,32,JavaScript,false,5,### Date,Date
-samverschueren/tz-format,10,0,0,0,0,0.000,205,2593,2904,1,JavaScript,false,3,### Date,Date
-floatdrop/node-cctz,59,0,0,0,0,0.000,404,2127,2542,3,C++,false,0,### Date,Date
-sindresorhus/normalize-url,803,9,5,2,0,11.208,5,118,3226,43,JavaScript,false,4,### URL,URL
-sindresorhus/humanize-url,244,0,0,0,0,0.000,44,491,3226,3,JavaScript,false,4,### URL,URL
-nodeca/url-unshort,109,0,0,0,0,0.000,41,386,3019,4,JavaScript,false,12,### URL,URL
-pid/speakingurl,1101,2,0,0,0,1.817,19,2232,3827,31,JavaScript,false,15,### URL,URL
-markdown-it/linkify-it,623,2,1,0,0,3.210,9,559,3198,14,JavaScript,false,16,### URL,URL
-snd/url-pattern,572,0,0,0,0,0.000,46,2550,4252,8,CoffeeScript,false,0,### URL,URL
-nodeca/embedza,62,0,0,0,0,0.000,40,743,3051,3,JavaScript,false,13,### URL,URL
-sideway/joi,20286,65,28,17,2,3.204,0,38,4073,225,JavaScript,false,12,### Data validation,Data validation
-mafintosh/is-my-json-valid,953,0,0,0,0,0.000,36,732,3390,27,JavaScript,false,8,### Data validation,Data validation
-nettofarah/property-validator,157,0,0,0,0,0.000,278,1438,2856,7,JavaScript,false,9,### Data validation,Data validation
-schema-inspector/schema-inspector,500,1,1,0,0,2.000,9,41,3601,18,JavaScript,false,4,### Data validation,Data validation
-ajv-validator/ajv,12933,81,29,13,1,6.263,0,166,3098,190,TypeScript,false,0,### Data validation,Data validation
-ianstormtaylor/superstruct,6689,29,17,9,1,4.335,0,359,2180,61,TypeScript,false,0,### Data validation,Data validation
-jquense/yup,21456,188,70,30,3,8.762,0,43,3337,161,TypeScript,false,0,### Data validation,Data validation
-remarkjs/remark,6835,102,41,21,3,14.923,0,18,3393,123,JavaScript,false,13,### Parsing,Parsing
-markdown-it/markdown-it,16229,146,80,47,0,8.996,1,46,3249,74,JavaScript,false,40,### Parsing,Parsing
-inikulin/parse5,3455,13,7,1,0,3.763,3,4,3890,36,TypeScript,false,0,### Parsing,Parsing
-parcel-bundler/parcel-css,5047,112,60,30,3,22.191,0,4,763,55,Rust,false,23,### Parsing,Parsing
-sindresorhus/strip-json-comments,589,0,0,0,0,0.000,38,131,3646,18,JavaScript,false,4,### Parsing,Parsing
-sindresorhus/strip-css-comments,121,0,0,0,0,0.000,76,491,3307,8,CSS,false,0,### Parsing,Parsing
-sindresorhus/parse-json,324,3,2,0,0,9.259,10,3,3000,15,JavaScript,false,10,### Parsing,Parsing
-medialize/URI.js,6252,4,2,2,0,0.640,1,588,4338,71,JavaScript,false,0,### Parsing,Parsing
-dominictarr/JSONStream,1892,4,0,0,0,2.114,19,1855,4433,32,JavaScript,true,8,### Parsing,Parsing
-sindresorhus/neat-csv,306,1,0,0,0,3.268,25,144,3088,5,JavaScript,false,5,### Parsing,Parsing
-mafintosh/csv-parser,1366,9,7,5,2,6.589,0,1074,3467,33,JavaScript,false,26,### Parsing,Parsing
-pegjs/pegjs,4684,16,8,5,0,3.416,2,1456,4964,26,JavaScript,false,7,### Parsing,Parsing
-matthewmueller/x-ray,5796,22,18,9,0,3.796,2,1186,3202,41,JavaScript,false,20,### Parsing,Parsing
-kach/nearley,3480,15,8,6,3,4.310,0,673,3548,49,JavaScript,false,15,### Parsing,Parsing
-juliangruber/binary-extract,153,0,0,0,0,0.000,34,2101,3527,3,JavaScript,false,2,### Parsing,Parsing
-stylecow/stylecow,161,0,0,0,0,0.000,132,1352,3390,2,JavaScript,false,13,### Parsing,Parsing
-nodeca/js-yaml,6059,20,8,5,1,3.301,0,441,4423,74,JavaScript,false,15,### Parsing,Parsing
-Leonidas-from-XIV/node-xml2js,4752,6,3,2,0,1.263,2,109,4866,67,CoffeeScript,false,0,### Parsing,Parsing
-zaach/jison,4304,5,2,1,0,1.162,3,1110,5094,47,JavaScript,false,12,### Parsing,Parsing
-ruimarinho/google-libphonenumber,1322,15,9,5,0,11.346,2,95,3296,12,JavaScript,false,6,### Parsing,Parsing
-TooTallNate/ref,444,1,0,0,0,2.252,28,95,4211,15,JavaScript,false,9,### Parsing,Parsing
-dtjohnson/xlsx-populate,897,8,3,2,0,8.919,4,1350,3177,21,JavaScript,false,35,### Parsing,Parsing
-Chevrotain/chevrotain,2304,44,27,5,0,19.097,0,80,3132,65,TypeScript,false,0,### Parsing,Parsing
-NaturalIntelligence/fast-xml-parser,2151,31,9,3,0,14.412,2,41,2478,82,JavaScript,false,15,### Parsing,Parsing
-sindresorhus/pretty-bytes,1036,5,1,1,0,4.826,2,119,3562,17,JavaScript,false,3,### Humanize,Humanize
-sindresorhus/pretty-ms,935,3,2,0,0,3.209,8,492,3523,18,JavaScript,false,4,### Humanize,Humanize
-vercel/ms,4786,36,19,12,1,7.522,0,149,4266,213,TypeScript,false,0,### Humanize,Humanize
-AriaMinaei/pretty-error,1509,6,3,2,0,3.976,1,749,3667,9,CoffeeScript,false,0,### Humanize,Humanize
-Tjatse/node-readability,339,0,0,0,0,0.000,47,1929,3473,3,JavaScript,false,9,### Humanize,Humanize
-thejoshwolfe/yazl,316,1,1,0,0,3.165,11,1807,3357,8,JavaScript,false,4,### Compression,Compression
-thejoshwolfe/yauzl,651,1,1,0,0,1.536,11,1334,3372,10,JavaScript,false,5,### Compression,Compression
-archiverjs/node-archiver,2655,12,7,2,1,4.520,0,56,4051,36,JavaScript,false,16,### Compression,Compression
-nodeca/pako,5092,46,25,12,2,9.034,0,246,3577,23,JavaScript,false,13,### Compression,Compression
-mafintosh/tar-stream,387,3,2,1,0,7.752,4,129,3613,43,JavaScript,false,6,### Compression,Compression
-sindresorhus/get-port,826,7,2,1,0,8.475,1,160,3506,20,JavaScript,false,4,### Network,Network
-sindresorhus/ipify,260,2,2,1,0,7.692,2,680,3372,8,JavaScript,false,5,### Network,Network
-bevry/getmac,323,2,2,1,0,6.192,4,11,3925,9,TypeScript,false,0,### Network,Network
-infusion/node-dhcp,289,3,0,0,0,10.381,17,594,2377,10,JavaScript,false,3,### Network,Network
-roccomuso/netcat,394,1,1,0,0,2.538,11,1340,2379,3,JavaScript,false,10,### Network,Network
-brianc/node-postgres,11561,71,37,20,2,6.141,0,23,4775,300,JavaScript,false,9,### Database,Database
-luin/ioredis,12392,73,27,14,0,5.891,1,58,3146,165,TypeScript,false,0,### Database,Database
-Level/levelup,4059,3,1,0,0,0.739,10,406,4107,42,JavaScript,false,28,### Database,Database
-mysqljs/mysql,18003,39,16,9,1,2.166,0,608,4853,131,JavaScript,false,9,### Database,Database
-apache/couchdb-nano,615,2,0,0,0,3.252,17,89,3043,163,JavaScript,false,8,### Database,Database
-aerospike/aerospike-client-nodejs,197,0,0,0,0,0.000,303,4,3560,162,JavaScript,false,21,### Database,Database
-couchbase/couchnode,464,1,0,0,0,2.155,14,40,4110,63,C++,false,0,### Database,Database
-mongodb/node-mongodb-native,9867,27,11,5,0,2.736,1,2,5057,853,TypeScript,false,0,### Database,Database
-sequelize/sequelize,28571,116,68,34,3,4.060,0,0,4861,1061,JavaScript,false,26,### Database,Database
-bookshelf/bookshelf,6335,7,3,2,0,1.105,1,986,3903,162,JavaScript,false,22,### Database,Database
-Automattic/mongoose,26169,126,56,28,5,4.815,0,1,4967,990,JavaScript,false,48,### Database,Database
-balderdashy/waterline,5411,5,2,0,0,0.924,7,336,3837,124,JavaScript,false,12,### Database,Database
-PhilWaldmann/openrecord,485,0,0,0,0,0.000,39,979,3583,13,JavaScript,true,37,### Database,Database
-vitaly-t/pg-promise,3368,18,7,2,0,5.344,2,82,3175,31,JavaScript,false,16,### Database,Database
-gajus/slonik,4169,56,19,12,0,13.432,1,12,2424,44,TypeScript,false,0,### Database,Database
-Vincit/objection.js,7118,24,10,6,2,3.372,0,10,3134,162,JavaScript,false,18,### Database,Database
-typeorm/typeorm,32420,210,103,65,8,6.477,0,38,2813,998,TypeScript,false,0,### Database,Database
-mikro-orm/mikro-orm,6590,78,33,19,1,11.836,0,0,2068,198,TypeScript,false,0,### Database,Database
-prisma/prisma,34674,556,260,125,15,16.035,0,1,1605,240,TypeScript,false,0,### Database,Database
-knex/knex,18200,141,55,27,3,7.747,0,26,3970,542,JavaScript,false,54,### Database,Database
-louischatriot/nedb,13372,15,9,2,0,1.122,2,856,3846,27,JavaScript,false,11,### Database,Database
-typicode/lowdb,20209,149,64,23,3,7.373,0,19,3511,35,JavaScript,false,18,### Database,Database
-jaredwray/keyv,2275,17,7,4,0,7.473,3,3,2318,59,TypeScript,false,0,### Database,Database
-tommybananas/finale,184,0,0,0,0,0.000,141,389,2193,43,JavaScript,false,14,### Database,Database
-mlaanderson/database-js,74,1,0,0,0,13.514,22,401,2306,4,JavaScript,false,0,### Database,Database
-pkosiec/mongo-seeding,521,6,2,1,0,11.516,4,40,2183,7,TypeScript,false,0,### Database,Database
-ForbesLindesay/atdatabases,559,8,4,0,0,14.311,9,29,1788,21,TypeScript,false,0,### Database,Database
-oguimbal/pg-mem,1594,23,9,4,2,14.429,0,41,1213,22,TypeScript,false,0,### Database,Database
-avajs/ava,20528,32,21,5,0,1.559,2,5,3280,308,JavaScript,false,55,### Testing,Testing
-mochajs/mocha,22252,50,24,14,2,2.247,0,3,4632,486,JavaScript,false,88,### Testing,Testing
-istanbuljs/nyc,5438,11,4,1,0,2.023,4,947,3109,104,JavaScript,false,37,### Testing,Testing
-tapjs/node-tap,2267,14,5,2,0,6.176,4,8,4618,91,JavaScript,false,77,### Testing,Testing
-substack/tape,5751,8,4,1,0,1.391,2,22,4003,107,JavaScript,false,40,### Testing,Testing
-power-assert-js/power-assert,2786,4,3,2,0,1.436,5,812,3735,19,JavaScript,false,25,### Testing,Testing
-mantoni/mochify.js,344,0,0,0,0,0.000,213,581,3571,33,JavaScript,false,18,### Testing,Testing
-vadimdemedes/trevor,2124,0,0,0,0,0.000,166,1449,2964,12,JavaScript,false,17,### Testing,Testing
-alexfernandez/loadtest,2496,12,5,1,0,4.808,3,2,3795,41,JavaScript,false,9,### Testing,Testing
-sinonjs/sinon,9475,40,12,8,1,4.222,0,5,4883,331,JavaScript,false,26,### Testing,Testing
-nodeca/navit,47,0,0,0,0,0.000,404,703,3155,6,JavaScript,false,6,### Testing,Testing
-nock/nock,12346,41,18,11,0,3.321,2,9,4434,253,JavaScript,false,27,### Testing,Testing
-theintern/intern,4363,3,0,0,0,0.688,18,289,3882,80,TypeScript,false,0,### Testing,Testing
-h2non/toxy,2733,4,2,1,0,1.464,2,632,3027,10,JavaScript,false,13,### Testing,Testing
-sindresorhus/hook-std,53,0,0,0,0,0.000,404,491,2890,8,JavaScript,false,4,### Testing,Testing
-egoist/testen,175,0,0,0,0,0.000,404,1427,2826,3,JavaScript,false,16,### Testing,Testing
-nightwatchjs/nightwatch,11475,36,21,17,2,3.137,0,4,4256,119,JavaScript,false,68,### Testing,Testing
-webdriverio/webdriverio,8355,63,27,13,3,7.540,0,0,4456,541,TypeScript,false,0,### Testing,Testing
-facebook/jest,42930,176,81,40,7,4.100,0,5,3624,1504,TypeScript,false,0,### Testing,Testing
-DevExpress/testcafe,9696,13,8,5,2,1.341,0,2,3127,121,JavaScript,false,178,### Testing,Testing
-bleenco/abstruse,904,8,1,0,0,8.850,12,21,2434,21,Go,false,37,### Testing,Testing
-codeceptjs/CodeceptJS,3973,9,2,1,0,2.265,6,0,2912,372,JavaScript,false,92,### Testing,Testing
-puppeteer/puppeteer,85017,400,194,104,12,4.705,0,1,2377,475,TypeScript,false,0,### Testing,Testing
-microsoft/playwright,56489,1016,544,300,20,17.986,0,1,1457,10000,TypeScript,false,0,### Testing,Testing
-ehmicky/nve,661,5,1,1,0,7.564,3,20,1557,1,JavaScript,false,19,### Testing,Testing
-dequelabs/axe-core,5388,49,30,19,2,9.094,0,3,3076,203,JavaScript,false,67,### Testing,Testing
-testcontainers/testcontainers-node,1326,26,16,7,1,19.608,0,16,2136,64,TypeScript,false,0,### Testing,Testing
-simonepri/upash,523,4,3,1,1,7.648,0,1923,2291,2,JavaScript,false,5,### Security,Security
-cossacklabs/themis,1764,10,6,3,1,5.669,0,2,3111,28,C,false,0,### Security,Security
-animir/node-rate-limiter-flexible,2689,39,25,14,0,14.504,1,1,2016,36,JavaScript,false,14,### Security,Security
-sindresorhus/crypto-hash,627,20,20,2,1,31.898,0,20,2075,8,JavaScript,false,5,### Security,Security
-davesag/jose-simple,60,1,1,1,0,16.667,4,7,2285,3,JavaScript,false,19,### Security,Security
-bestiejs/benchmark.js,5443,13,6,3,0,2.388,2,1812,4553,19,JavaScript,false,8,### Benchmarking,Benchmarking
-babel/minify,4371,1,1,0,0,0.229,8,554,2774,93,JavaScript,false,32,### Minifiers,Minifiers
-mishoo/UglifyJS,12775,33,17,7,1,2.583,0,299,4094,124,JavaScript,false,2,### Minifiers,Minifiers
-clean-css/clean-css,4077,6,4,2,1,1.472,0,297,4640,91,JavaScript,false,9,### Minifiers,Minifiers
-Swaagie/minimize,163,1,1,1,0,6.135,4,2123,3917,10,JavaScript,false,13,### Minifiers,Minifiers
-imagemin/imagemin,5440,20,10,6,0,3.676,1,822,3660,23,JavaScript,false,15,### Minifiers,Minifiers
-jaredhanson/passport,21920,90,45,16,2,4.106,0,246,4417,34,JavaScript,false,9,### Authentication,Authentication
-simov/grant,3948,13,7,1,0,3.293,4,8,3308,53,JavaScript,false,27,### Authentication,Authentication
-stalniy/casl,5245,49,19,7,0,9.342,2,2,2307,63,JavaScript,false,1,### Authorization,Authorization
-casbin/node-casbin,2365,19,11,8,0,8.034,2,53,1946,79,TypeScript,false,0,### Authorization,Authorization
-nodemailer/nodemailer,15987,79,47,30,7,4.942,0,6,4679,136,JavaScript,false,18,### Email,Email
-eleith/emailjs,2141,7,1,1,0,3.270,2,67,4644,34,HTML,false,0,### Email,Email
-forwardemail/email-templates,3587,8,7,1,0,2.230,2,145,4166,56,JavaScript,false,25,### Email,Email
-mjmlio/mjml,15902,111,76,51,3,6.980,0,33,2844,154,JavaScript,false,16,### Email,Email
-OptimalBits/bull,14565,120,54,31,2,8.239,0,0,3789,222,JavaScript,false,33,### Job queues,Job queues
-agenda/agenda,9070,44,23,12,2,4.851,0,310,3666,134,TypeScript,false,0,### Job queues,Job queues
-nodeca/idoit,71,0,0,0,0,0.000,44,992,2586,3,JavaScript,false,8,### Job queues,Job queues
-actionhero/node-resque,1294,5,2,2,0,3.864,3,13,3703,70,TypeScript,false,0,### Job queues,Job queues
-smrchy/rsmq,1681,4,0,0,0,2.380,16,881,3815,12,JavaScript,false,9,### Job queues,Job queues
-bee-queue/bee-queue,3416,36,22,9,1,10.539,0,0,3219,39,JavaScript,false,25,### Job queues,Job queues
-weyoss/redis-smq,549,5,2,2,1,9.107,0,231,2320,2,TypeScript,false,0,### Job queues,Job queues
-bbc/sqs-consumer,1554,11,3,1,0,7.079,0,0,3250,127,TypeScript,false,0,### Job queues,Job queues
-diamondio/better-queue,468,7,3,1,0,14.957,6,415,2862,13,JavaScript,false,5,### Job queues,Job queues
-taskforcesh/bullmq,4539,116,56,32,3,25.556,0,0,1788,122,TypeScript,false,0,### Job queues,Job queues
-tj/n,18101,92,44,26,1,5.083,0,28,4693,86,Shell,false,0,### Node.js management,Node.js management
-isaacs/nave,1587,5,1,0,0,3.151,8,32,4929,24,Shell,false,0,### Node.js management,Node.js management
-ekalinin/nodeenv,1634,14,5,3,0,8.568,4,37,4610,87,Python,false,0,### Node.js management,Node.js management
-coreybutler/nvm-windows,31442,638,303,158,19,20.291,0,4,3339,74,Go,false,0,### Node.js management,Node.js management
-nodenv/nodenv,2062,26,7,4,0,12.609,3,221,3898,119,Shell,false,0,### Node.js management,Node.js management
-Schniz/fnm,13831,299,143,94,5,21.618,0,30,1760,75,Rust,false,21,### Node.js management,Node.js management
-napi-rs/napi-rs,4744,152,70,39,3,32.040,0,4,2024,89,Rust,false,0,### Cross-platform integration,Cross-platform integration
-neon-bindings/neon,7557,83,27,9,1,10.983,0,84,2976,70,Rust,false,0,### Cross-platform integration,Cross-platform integration
-tjanczuk/edge,5376,9,7,4,0,1.674,5,2018,3916,39,C++,false,0,### Cross-platform integration,Cross-platform integration
-Elringus/DotNetJS,600,5,1,1,0,8.333,1,23,729,6,JavaScript,false,0,### Cross-platform integration,Cross-platform integration
-retextjs/retext,2298,9,5,2,0,3.916,3,60,3448,17,JavaScript,false,12,### Natural language processing,Natural language processing
-wooorm/franc,3927,12,5,3,1,3.056,0,354,3402,9,JavaScript,false,29,### Natural language processing,Natural language processing
-sindresorhus/leven,692,1,0,0,0,1.445,27,824,3381,7,JavaScript,false,12,### Natural language processing,Natural language processing
-NaturalNode/natural,10347,31,18,6,1,2.996,0,27,4572,137,JavaScript,false,26,### Natural language processing,Natural language processing
-axa-group/nlp.js,5896,45,19,5,0,7.632,1,170,1930,65,JavaScript,false,12,### Natural language processing,Natural language processing
-Unitech/pm2,39920,170,78,41,2,4.259,0,213,3827,274,JavaScript,false,31,### Process management,Process management
-remy/nodemon,25670,84,34,17,4,3.272,0,10,4788,166,JavaScript,false,21,### Process management,Process management
-coreybutler/node-mac,529,1,1,1,0,1.890,3,1220,3897,8,JavaScript,false,3,### Process management,Process management
-coreybutler/node-linux,415,0,0,0,0,0.000,33,1319,3827,10,JavaScript,false,3,### Process management,Process management
-coreybutler/node-windows,2694,14,8,3,1,5.197,0,53,3952,37,JavaScript,false,2,### Process management,Process management
-petruisfan/node-supervisor,3769,3,2,2,1,0.796,0,2154,5026,41,JavaScript,false,1,### Process management,Process management
-phusion/passenger,4962,13,6,3,0,2.620,1,4,5707,117,C++,false,0,### Process management,Process management
-octalmage/robotjs,11919,37,19,9,3,3.104,0,795,3359,51,C,false,0,### Automation,Automation
-nut-tree/nut.js,1689,18,8,4,1,10.657,0,25,1908,10,TypeScript,false,0,### Automation,Automation
-acornjs/acorn,9841,83,40,17,1,8.434,0,1,4066,118,JavaScript,false,10,### AST,AST
-docpad/docpad,3049,4,3,2,0,1.312,5,1085,4623,46,CoffeeScript,false,0,### Static site generators,Static site generators
-docsifyjs/docsify,25456,319,148,70,12,12.531,0,20,2548,179,JavaScript,false,48,### Static site generators,Static site generators
-brandonweiss/charge,419,0,0,0,0,0.000,41,1175,2070,7,JavaScript,false,41,### Static site generators,Static site generators
-keystonejs/keystone,8435,95,45,26,3,11.263,0,4,2047,249,TypeScript,false,0,### Content management systems,Content management systems
-apostrophecms/apostrophe,4162,16,7,4,0,3.844,4,2,3928,109,JavaScript,false,125,### Content management systems,Content management systems
-strapi/strapi,57235,776,300,158,16,13.558,0,2,2964,958,JavaScript,false,58,### Content management systems,Content management systems
-FactorJS/factor,1356,2,1,1,0,1.475,2,316,1713,1,TypeScript,false,0,### Content management systems,Content management systems
-SoftwareBrothers/adminjs,7495,129,37,16,1,17.211,0,26,1814,62,TypeScript,false,0,### Content management systems,Content management systems
-NodeBB/NodeBB,13645,64,26,10,2,4.690,0,3,3855,212,JavaScript,false,0,### Forum,Forum
-TryGhost/Ghost,44367,307,124,67,6,6.920,0,1,3844,556,JavaScript,false,10,### Blogging,Blogging
-hexojs/hexo,37657,170,90,50,2,4.514,0,4,4066,187,JavaScript,false,42,### Blogging,Blogging
-sindresorhus/cows,401,0,0,0,0,0.000,61,1003,2825,9,JavaScript,false,2,### Weird,Weird
-sindresorhus/superb,393,1,0,0,0,2.545,20,1044,3414,12,JavaScript,false,4,### Weird,Weird
-sindresorhus/cat-names,262,0,0,0,0,0.000,218,514,3223,4,JavaScript,false,5,### Weird,Weird
-sindresorhus/dog-names,126,0,0,0,0,0.000,69,514,3223,4,JavaScript,false,6,### Weird,Weird
-sindresorhus/superheroes,236,0,0,0,0,0.000,41,251,3107,3,JavaScript,false,4,### Weird,Weird
-sindresorhus/supervillains,117,0,0,0,0,0.000,69,437,3107,7,JavaScript,false,4,### Weird,Weird
-maxogden/cool-ascii-faces,1755,3,1,1,0,1.709,3,2801,3588,24,JavaScript,false,1,### Weird,Weird
-melaniecebula/cat-ascii-faces,244,0,0,0,0,0.000,94,3229,3236,1,JavaScript,false,1,### Weird,Weird
-SkyHacks/nerds,106,0,0,0,0,0.000,64,2665,2676,1,JavaScript,false,5,### Weird,Weird
-kesla/node-snappy,479,0,0,0,0,0.000,131,1136,4613,20,JavaScript,true,11,### Serialization,Serialization
-protobufjs/protobuf.js,9387,68,36,16,0,7.244,1,82,3907,105,JavaScript,false,42,### Serialization,Serialization
-compactr/compactr.js,99,0,0,0,0,0.000,87,1136,2647,2,JavaScript,false,6,### Serialization,Serialization
-sindresorhus/execa,6020,51,22,13,1,8.472,0,10,2898,53,JavaScript,false,19,### Miscellaneous,Miscellaneous
-cheeriojs/cheerio,27096,135,56,25,2,4.982,0,2,4417,131,TypeScript,false,0,### Miscellaneous,Miscellaneous
-sindresorhus/open,3007,16,9,4,0,5.321,1,189,3507,50,JavaScript,false,8,### Miscellaneous,Miscellaneous
-sindresorhus/hasha,938,5,5,3,2,5.330,0,1,3095,10,JavaScript,false,7,### Miscellaneous,Miscellaneous
-sindresorhus/dot-prop,781,3,0,0,0,3.841,14,116,3230,23,JavaScript,false,6,### Miscellaneous,Miscellaneous
-sindresorhus/onetime,152,0,0,0,0,0.000,64,6,3632,9,JavaScript,false,4,### Miscellaneous,Miscellaneous
-sindresorhus/mem,1031,8,2,2,0,7.759,1,189,2882,17,TypeScript,false,0,### Miscellaneous,Miscellaneous
-sindresorhus/strip-bom,107,0,0,0,0,0.000,69,939,3508,7,JavaScript,false,3,### Miscellaneous,Miscellaneous
-sindresorhus/os-locale,221,0,0,0,0,0.000,68,688,3163,16,JavaScript,false,5,### Miscellaneous,Miscellaneous
-mscdex/ssh2,5291,26,15,7,0,4.914,4,87,4118,38,JavaScript,false,4,### Miscellaneous,Miscellaneous
-markelog/adit,53,0,0,0,0,0.000,39,2442,2960,2,JavaScript,false,21,### Miscellaneous,Miscellaneous
-sindresorhus/file-type,3301,42,35,24,3,12.723,0,1,3489,103,JavaScript,false,10,### Miscellaneous,Miscellaneous
-SGrondin/bottleneck,1629,16,6,1,0,9.822,1,1208,3589,14,JavaScript,false,17,### Miscellaneous,Miscellaneous
-audreyt/node-webworker-threads,2288,2,2,2,0,0.874,2,788,4026,30,C++,false,0,### Miscellaneous,Miscellaneous
-sindresorhus/clipboardy,1678,45,16,3,0,26.818,3,20,2533,14,JavaScript,false,6,### Miscellaneous,Miscellaneous
-mapbox/node-pre-gyp,1081,4,3,1,0,3.700,4,121,3634,562,JavaScript,false,21,### Miscellaneous,Miscellaneous
-peterbraden/node-opencv,4335,9,4,1,0,2.076,5,295,4319,101,C++,false,0,### Miscellaneous,Miscellaneous
-motdotla/dotenv,17886,130,64,35,5,7.268,0,7,3781,74,JavaScript,false,10,### Miscellaneous,Miscellaneous
-npm/node-semver,4826,28,16,9,1,5.802,0,54,4656,186,JavaScript,false,4,### Miscellaneous,Miscellaneous
-nodegit/nodegit,5514,16,4,1,0,2.902,2,274,4649,151,JavaScript,false,20,### Miscellaneous,Miscellaneous
-pigulla/json-strictify,19,0,0,0,0,0.000,42,1,3343,2,TypeScript,false,0,### Miscellaneous,Miscellaneous
-jsdom/jsdom,19356,95,55,28,3,4.908,0,169,5045,311,JavaScript,false,37,### Miscellaneous,Miscellaneous
-sindresorhus/is,1585,8,2,1,0,5.047,4,16,2242,48,TypeScript,false,0,### Miscellaneous,Miscellaneous
-simonepri/env-dot-prop,33,0,0,0,0,0.000,63,1227,2304,2,JavaScript,false,4,### Miscellaneous,Miscellaneous
-gkozlenko/node-video-lib,343,0,0,0,0,0.000,64,15,2724,1,JavaScript,false,4,### Miscellaneous,Miscellaneous
-xxczaki/cashify,395,1,0,0,0,2.532,26,701,1557,5,TypeScript,false,0,### Miscellaneous,Miscellaneous
-Geode-solutions/genepi,72,3,1,0,0,41.667,10,808,1502,8,C++,false,0,### Miscellaneous,Miscellaneous
-typicode/husky,30500,157,88,47,5,5.148,0,17,3429,111,JavaScript,false,7,### Miscellaneous,Miscellaneous
-ds300/patch-package,9480,121,67,26,1,12.764,0,97,2378,51,TypeScript,false,0,### Miscellaneous,Miscellaneous
-mifi/editly,4340,72,47,18,3,16.590,0,219,1305,16,JavaScript,false,23,### Miscellaneous,Miscellaneous
-ehmicky/wild-wild-path,628,3,0,0,0,4.777,20,20,598,1,JavaScript,false,4,### Miscellaneous,Miscellaneous
-sindresorhus/uint8array-extras,131,131,33,3,0,1000.000,4,3,19,2,JavaScript,false,4,### Miscellaneous,Miscellaneous
-goldbergyoni/nodebestpractices,93619,469,231,107,11,5.010,0,51,2249,231,Dockerfile,false,0,### Tutorials,Tutorials
-mattdesl/module-best-practices,1523,1,0,0,0,0.657,15,2948,3314,3,JavaScript,false,1,### Tutorials,Tutorials
-FredKSchott/the-node-way,1486,0,0,0,0,0.000,49,2853,3615,3,JavaScript,false,0,### Tutorials,Tutorials
-azat-co/you-dont-know-node,1495,1,0,0,0,0.669,23,1811,2958,7,Python,false,0,### Tutorials,Tutorials
-ehmicky/cross-platform-node-guide,1362,4,0,0,0,2.937,14,20,1756,4,JavaScript,false,1,### Tutorials,Tutorials
-stephenplusplus/stream-faqs,191,0,0,0,0,0.000,80,2967,3004,1,JavaScript,false,2,### Cheatsheets,Cheatsheets
-jesusprubio/strong-node,489,1,0,0,0,2.045,26,876,2755,3,JavaScript,false,2,### Cheatsheets,Cheatsheets
-amplication/amplication,12772,215,75,24,2,16.834,0,5,1280,238,TypeScript,false,0,### Tools,Tools
-sindresorhus/node-module-boilerplate,717,3,1,1,0,4.184,4,156,3165,8,JavaScript,false,2,### Miscellaneous,Miscellaneous
-sheerun/modern-node,242,1,1,0,0,4.132,12,802,2710,2,JavaScript,false,13,### Miscellaneous,Miscellaneous
-sindresorhus/generator-nm,742,0,0,0,0,0.000,76,156,3165,20,JavaScript,false,10,### Miscellaneous,Miscellaneous
-Microsoft/nodejs-guidelines,2488,4,2,2,0,1.608,1,348,2932,34,,false,0,### Miscellaneous,Miscellaneous
-sindresorhus/project-ideas,541,2,2,1,0,3.697,5,1124,3086,3,,false,0,### Miscellaneous,Miscellaneous
-thlorenz/v8-perf,2157,11,2,1,0,5.100,4,370,3447,6,JavaScript,false,3,### Miscellaneous,Miscellaneous
-sindresorhus/awesome-npm,4339,19,7,2,0,4.379,3,6,2859,46,,false,0,### Miscellaneous,Miscellaneous
-bcoe/awesome-cross-platform-nodejs,1114,7,2,0,0,6.284,11,465,2883,10,,false,0,### Miscellaneous,Miscellaneous
+webtorrent/webtorrent,28442,117,40,17,2,4.114,0,1,3681,175,JavaScript,false,76,### Mad science,Mad science
+mafintosh/peerflix,6111,17,8,3,0,2.782,3,1081,3895,60,JavaScript,false,18,### Mad science,Mad science
+ipfs/js-ipfs,7446,4,3,1,1,0.537,0,171,3454,241,JavaScript,true,2,### Mad science,Mad science
+mafintosh/peerwiki,309,0,0,0,0,0.000,34,2102,3358,2,JavaScript,false,14,### Mad science,Mad science
+mafintosh/peercast,509,0,0,0,0,0.000,56,3328,3328,3,JavaScript,false,6,### Mad science,Mad science
+bitcoinjs/bitcoinjs-lib,5182,47,21,8,0,9.070,1,15,4575,93,TypeScript,false,0,### Mad science,Mad science
+bitpay/bitcore,4659,18,8,5,1,3.863,0,2,3617,146,JavaScript,false,12,### Mad science,Mad science
+foliojs/pdfkit,9062,49,19,10,3,5.407,0,2,4507,83,JavaScript,false,27,### Mad science,Mad science
+Turfjs/turf,8433,64,31,18,2,7.589,0,2,3692,151,JavaScript,false,30,### Mad science,Mad science
+mafintosh/webcat,437,0,0,0,0,0.000,41,3047,3132,2,JavaScript,false,11,### Mad science,Mad science
+NodeOS/NodeOS,6870,12,7,4,2,1.747,0,1873,3766,34,Shell,false,0,### Mad science,Mad science
+yodaos-project/yodaos,1176,6,3,1,0,5.102,4,1440,1796,7,C,false,0,### Mad science,Mad science
+BrainJS/brain.js,14010,61,25,11,2,4.354,0,202,2829,99,TypeScript,false,0,### Mad science,Mad science
+alibaba/pipcook,2471,7,3,0,0,2.833,11,74,1439,42,TypeScript,false,0,### Mad science,Mad science
+cytoscape/cytoscape.js,9423,51,24,15,0,5.412,1,2,4464,135,JavaScript,false,29,### Mad science,Mad science
+creationix/js-git,3820,2,1,1,0,0.524,3,1596,3879,25,JavaScript,false,4,### Mad science,Mad science
+SheetJS/sheetjs,33806,164,85,42,7,4.851,0,305,3996,181,JavaScript,false,24,### Mad science,Mad science
+isomorphic-git/isomorphic-git,7093,52,23,12,3,7.331,0,4,2297,79,JavaScript,false,80,### Mad science,Mad science
+sindresorhus/np,7243,15,11,6,0,2.071,1,5,3011,88,JavaScript,false,50,### Command-line apps,Command-line apps
+sindresorhus/npm-name,164,2,2,0,0,12.195,10,29,3500,16,JavaScript,false,15,### Command-line apps,Command-line apps
+sindresorhus/gh-home,190,1,0,0,0,5.263,18,759,2861,3,JavaScript,false,8,### Command-line apps,Command-line apps
+sindresorhus/npm-home,191,1,1,0,0,5.236,8,72,2861,6,JavaScript,false,11,### Command-line apps,Command-line apps
+sindresorhus/trash,2521,7,4,2,1,2.777,0,23,3469,24,JavaScript,false,13,### Command-line apps,Command-line apps
+sindresorhus/speed-test,3885,7,5,3,2,1.802,0,709,3013,8,JavaScript,false,11,### Command-line apps,Command-line apps
+sindresorhus/pageres,9582,11,8,6,0,1.148,1,7,3565,31,TypeScript,false,0,### Command-line apps,Command-line apps
+sindresorhus/cpy,416,1,1,1,0,2.404,3,8,3424,29,JavaScript,false,12,### Command-line apps,Command-line apps
+MrRio/vtop,4065,11,4,4,2,2.706,0,1894,3454,28,JavaScript,false,9,### Command-line apps,Command-line apps
+sindresorhus/empty-trash,131,0,0,0,0,0.000,101,760,3332,6,JavaScript,false,8,### Command-line apps,Command-line apps
+sindresorhus/is-up,385,0,0,0,0,0.000,70,785,3368,7,JavaScript,false,4,### Command-line apps,Command-line apps
+sindresorhus/is-online,1187,5,2,0,0,4.212,11,145,3341,13,JavaScript,false,7,### Command-line apps,Command-line apps
+sindresorhus/public-ip,983,5,3,1,0,5.086,3,95,3346,14,JavaScript,false,9,### Command-line apps,Command-line apps
+sindresorhus/clipboard-cli,484,3,1,0,0,6.198,9,21,2534,3,JavaScript,false,6,### Command-line apps,Command-line apps
+xojs/xo,7402,65,22,6,2,8.781,0,92,3025,86,JavaScript,false,45,### Command-line apps,Command-line apps
+eslint/eslint,23588,152,75,36,8,6.444,0,3,3788,975,JavaScript,false,98,### Command-line apps,Command-line apps
+alanshaw/david,962,1,0,0,0,1.040,15,885,3947,23,JavaScript,false,15,### Command-line apps,Command-line apps
+http-party/http-server,12989,69,26,12,1,5.312,0,530,4532,88,JavaScript,false,19,### Command-line apps,Command-line apps
+tapio/live-server,4233,22,7,4,0,5.197,2,564,3985,27,JavaScript,false,17,### Command-line apps,Command-line apps
+kessler/node-bcat,338,0,0,0,0,0.000,69,548,3586,3,JavaScript,false,8,### Command-line apps,Command-line apps
+pawurb/normit,238,1,0,0,0,4.202,27,2428,3406,3,JavaScript,false,15,### Command-line apps,Command-line apps
+sindresorhus/fkill-cli,6780,14,4,0,0,2.065,7,6,3067,11,JavaScript,false,18,### Command-line apps,Command-line apps
+danielstjules/pjs,416,1,0,0,0,2.404,29,2446,3383,7,JavaScript,false,10,### Command-line apps,Command-line apps
+davglass/license-checker,1541,11,6,3,0,7.138,5,1767,3954,45,JavaScript,false,22,### Command-line apps,Command-line apps
+juliangruber/browser-run,430,1,0,0,0,2.326,28,10,3887,17,JavaScript,false,18,### Command-line apps,Command-line apps
+sindresorhus/tmpin,124,0,0,0,0,0.000,93,817,3434,2,JavaScript,false,5,### Command-line apps,Command-line apps
+sindresorhus/wallpaper,999,5,1,1,0,5.005,6,15,3146,18,JavaScript,false,3,### Command-line apps,Command-line apps
+hatashiro/pen,325,0,0,0,0,0.000,70,1473,2984,4,JavaScript,false,37,### Command-line apps,Command-line apps
+sindresorhus/dark-mode,646,3,2,1,0,4.644,5,930,3313,3,Swift,false,0,### Command-line apps,Command-line apps
+Javascipt/Jsome,239,0,0,0,0,0.000,54,2110,2956,5,JavaScript,false,5,### Command-line apps,Command-line apps
+samverschueren/mobicon-cli,108,3,2,0,0,27.778,8,1528,2882,1,JavaScript,false,9,### Command-line apps,Command-line apps
+samverschueren/mobisplash-cli,68,2,1,0,0,29.412,8,2418,2867,1,JavaScript,false,11,### Command-line apps,Command-line apps
+rtfpessoa/diff2html-cli,468,14,7,2,0,29.915,3,98,3137,11,TypeScript,false,0,### Command-line apps,Command-line apps
+victorb/trymodule,1133,1,1,1,0,0.883,6,2487,2800,6,JavaScript,false,4,### Command-line apps,Command-line apps
+kucherenko/jscpd,3258,57,16,10,0,17.495,1,56,3820,48,TypeScript,false,0,### Command-line apps,Command-line apps
+Raathigesh/Atmo,814,0,0,0,0,0.000,44,2138,2731,5,TypeScript,false,0,### Command-line apps,Command-line apps
+siddharthkp/auto-install,1191,2,2,1,0,1.679,6,910,2653,10,JavaScript,false,19,### Command-line apps,Command-line apps
+siddharthkp/cost-of-modules,2801,4,2,2,1,1.428,0,115,2572,7,JavaScript,false,11,### Command-line apps,Command-line apps
+localtunnel/localtunnel,16995,135,65,34,5,7.944,0,466,4165,35,JavaScript,false,5,### Command-line apps,Command-line apps
+marionebl/svg-term-cli,3341,16,8,6,0,4.789,1,1583,2178,5,JavaScript,false,32,### Command-line apps,Command-line apps
+aksakalli/gtop,9533,31,16,12,4,3.252,0,93,2286,9,JavaScript,false,5,### Command-line apps,Command-line apps
+themerdev/themer,5277,20,11,6,2,3.790,0,141,2547,14,TypeScript,false,0,### Command-line apps,Command-line apps
+mixn/carbon-now-cli,5578,30,15,13,2,5.378,0,59,1959,5,TypeScript,false,0,### Command-line apps,Command-line apps
+xxczaki/cash-cli,216,4,2,1,0,18.519,4,1444,2224,6,JavaScript,false,11,### Command-line apps,Command-line apps
+klaussinani/taskbook,8827,17,10,6,1,1.926,0,427,2100,28,JavaScript,false,6,### Command-line apps,Command-line apps
+brandonweiss/discharge,538,2,2,1,0,3.717,2,1176,2260,5,JavaScript,false,18,### Command-line apps,Command-line apps
+voidcosmos/npkill,7574,44,20,7,1,5.809,0,26,1597,25,TypeScript,false,0,### Command-line apps,Command-line apps
+lodash/lodash,57862,238,101,52,6,4.113,0,46,4237,288,JavaScript,false,16,### Functional programming,Functional programming
+immutable-js/immutable-js,32720,41,15,6,0,1.253,3,76,3421,214,TypeScript,false,0,### Functional programming,Functional programming
+ramda/ramda,23355,69,30,20,5,2.954,0,10,3796,323,JavaScript,false,32,### Functional programming,Functional programming
+mout/mout,1283,2,1,0,0,1.559,11,419,3959,41,JavaScript,false,11,### Functional programming,Functional programming
+reactivex/rxjs,29606,136,79,41,6,4.594,0,2,3165,549,TypeScript,false,0,### Functional programming,Functional programming
+kefirjs/kefir,1851,4,2,1,0,2.161,3,246,3479,44,JavaScript,false,21,### Functional programming,Functional programming
+sindresorhus/got,13561,87,35,16,4,6.415,0,29,3517,185,TypeScript,false,0,### HTTP,HTTP
+nodejs/undici,5050,56,25,14,4,11.089,0,0,2011,226,JavaScript,false,38,### HTTP,HTTP
+sindresorhus/ky-universal,662,4,1,0,0,6.042,12,72,1724,9,JavaScript,false,5,### HTTP,HTTP
+node-fetch/node-fetch,8522,33,14,6,2,3.872,0,111,3213,123,JavaScript,false,19,### HTTP,HTTP
+axios/axios,102477,458,194,110,13,4.469,0,4,3373,430,JavaScript,false,59,### HTTP,HTTP
+visionmedia/superagent,16440,24,10,5,1,1.460,0,75,4597,259,JavaScript,false,46,### HTTP,HTTP
+micromata/http-fake-backend,302,18,3,0,0,59.603,8,23,2809,44,JavaScript,true,20,### HTTP,HTTP
+lukechilds/cacheable-request,279,4,1,1,0,14.337,5,17,2355,16,TypeScript,false,0,### HTTP,HTTP
+khaosdoctor/gotql,400,0,0,0,0,0.000,51,42,2175,10,TypeScript,false,0,### HTTP,HTTP
+gajus/global-agent,320,6,2,1,0,18.750,3,96,1663,10,TypeScript,false,0,### HTTP,HTTP
+sinedied/smoke,171,1,1,0,0,5.848,10,117,1818,4,JavaScript,false,18,### HTTP,HTTP
+simov/purest,538,0,0,0,0,0.000,38,326,3430,3,JavaScript,false,8,### HTTP,HTTP
+debug-js/debug,10865,38,15,5,1,3.497,0,162,4367,113,JavaScript,false,12,### Debugging / Profiling,Debugging / Profiling
+mafintosh/why-is-node-running,1609,2,1,0,0,1.243,13,565,2833,14,JavaScript,false,2,### Debugging / Profiling,Debugging / Profiling
+valyouw/njstrace,358,0,0,0,0,0.000,54,873,3535,1,JavaScript,false,6,### Debugging / Profiling,Debugging / Profiling
+joyent/node-vstream,55,0,0,0,0,0.000,405,740,3387,6,JavaScript,false,4,### Debugging / Profiling,Debugging / Profiling
+watson/stackman,247,0,0,0,0,0.000,70,1336,3393,2,JavaScript,false,9,### Debugging / Profiling,Debugging / Profiling
+alidavut/locus,306,1,0,0,0,3.268,15,1464,3623,4,JavaScript,true,12,### Debugging / Profiling,Debugging / Profiling
+davidmarkclements/0x,2964,22,10,4,1,7.422,0,69,2820,39,JavaScript,false,32,### Debugging / Profiling,Debugging / Profiling
+automation-stack/ctrace,120,0,0,0,0,0.000,77,2705,2719,2,JavaScript,false,4,### Debugging / Profiling,Debugging / Profiling
+andywer/leakage,1582,0,0,0,0,0.000,62,289,2512,4,JavaScript,false,8,### Debugging / Profiling,Debugging / Profiling
+nodejs/llnode,1093,3,2,2,1,2.745,0,371,2929,58,C++,false,0,### Debugging / Profiling,Debugging / Profiling
+sfninja/thetool,213,1,0,0,0,4.695,16,1582,1647,1,JavaScript,false,4,### Debugging / Profiling,Debugging / Profiling
+slanatech/swagger-stats,845,7,3,1,1,8.284,0,149,2450,16,JavaScript,false,35,### Debugging / Profiling,Debugging / Profiling
+june07/nim,192,1,0,0,0,5.208,28,5,2555,15,JavaScript,false,49,### Debugging / Profiling,Debugging / Profiling
+immobiliare/dats,79,2,0,0,0,25.316,19,3,753,13,TypeScript,false,0,### Debugging / Profiling,Debugging / Profiling
+pinojs/pino,12375,149,57,26,2,12.040,0,20,2826,284,JavaScript,false,50,### Logging,Logging
+winstonjs/winston,21318,154,59,26,5,7.224,0,4,4701,367,JavaScript,false,28,### Logging,Logging
+watson/console-log-level,105,0,0,0,0,0.000,70,1703,3233,3,JavaScript,false,2,### Logging,Logging
+guigrpa/storyboard,742,0,0,0,0,0.000,39,1008,2822,3,JavaScript,false,32,### Logging,Logging
+unjs/consola,4934,225,63,28,2,45.602,0,26,2052,42,TypeScript,false,0,### Logging,Logging
+chalk/chalk,20875,114,59,26,7,5.461,0,89,3754,57,JavaScript,false,10,### Command-line utilities,Command-line utilities
+sindresorhus/meow,3329,16,6,3,1,4.806,0,77,3318,43,JavaScript,false,28,### Command-line utilities,Command-line utilities
+yargs/yargs,10732,44,16,6,4,4.100,0,195,3657,269,JavaScript,false,30,### Command-line utilities,Command-line utilities
+sindresorhus/ora,8692,42,18,10,1,4.832,0,103,2810,48,JavaScript,false,15,### Command-line utilities,Command-line utilities
+sindresorhus/get-stdin,333,1,1,1,0,3.003,1,29,3559,11,JavaScript,false,5,### Command-line utilities,Command-line utilities
+sindresorhus/log-update,1049,26,24,22,3,24.786,0,15,3011,16,JavaScript,false,11,### Command-line utilities,Command-line utilities
+vadimdemedes/ink,24862,188,111,66,6,7.562,0,1,2345,103,TypeScript,false,0,### Command-line utilities,Command-line utilities
+listr2/listr2,405,11,4,1,0,27.160,6,2,1354,18,TypeScript,false,0,### Command-line utilities,Command-line utilities
+sindresorhus/conf,1134,14,5,4,0,12.346,1,19,2700,44,TypeScript,false,0,### Command-line utilities,Command-line utilities
+sindresorhus/ansi-escapes,457,3,2,2,0,6.565,1,88,3012,15,JavaScript,false,5,### Command-line utilities,Command-line utilities
+sindresorhus/log-symbols,721,0,0,0,0,0.000,40,21,3413,11,JavaScript,false,6,### Command-line utilities,Command-line utilities
+sindresorhus/figures,568,4,2,1,0,7.042,6,14,3413,11,JavaScript,false,4,### Command-line utilities,Command-line utilities
+sindresorhus/boxen,1448,11,6,3,1,7.597,0,76,2883,22,JavaScript,false,12,### Command-line utilities,Command-line utilities
+sindresorhus/terminal-link,592,5,0,0,0,8.446,14,269,2048,9,JavaScript,false,5,### Command-line utilities,Command-line utilities
+sindresorhus/terminal-image,938,1,0,0,0,1.066,15,412,2014,6,JavaScript,false,9,### Command-line utilities,Command-line utilities
+sindresorhus/string-width,418,3,3,2,0,7.177,2,16,3041,12,JavaScript,false,6,### Command-line utilities,Command-line utilities
+sindresorhus/cli-truncate,83,0,0,0,0,0.000,173,15,2803,8,JavaScript,false,5,### Command-line utilities,Command-line utilities
+chjj/blessed,11014,26,13,7,2,2.361,0,2870,3941,12,JavaScript,false,0,### Command-line utilities,Command-line utilities
+SBoudrias/Inquirer.js,18749,114,55,26,2,6.080,0,5,3832,201,JavaScript,false,22,### Command-line utilities,Command-line utilities
+sindresorhus/yn,250,0,0,0,0,0.000,60,492,3385,11,JavaScript,false,3,### Command-line utilities,Command-line utilities
+cli-table/cli-table3,473,5,2,1,0,10.571,5,232,1982,20,JavaScript,false,9,### Command-line utilities,Command-line utilities
+madbence/node-drawille,995,1,0,0,0,1.005,29,392,3478,9,JavaScript,false,2,### Command-line utilities,Command-line utilities
+jstrace/chart,234,0,0,0,0,0.000,37,2593,3545,3,JavaScript,false,5,### Command-line utilities,Command-line utilities
+visionmedia/node-progress,2904,6,3,1,1,2.066,0,1803,4589,39,JavaScript,false,0,### Command-line utilities,Command-line utilities
+yeoman/insight,553,0,0,0,0,0.000,146,825,3987,40,JavaScript,false,14,### Command-line utilities,Command-line utilities
+sindresorhus/cli-cursor,95,0,0,0,0,0.000,47,811,3361,6,JavaScript,false,5,### Command-line utilities,Command-line utilities
+shannonmoeller/cli-columns,32,0,0,0,0,0.000,39,740,2829,3,JavaScript,false,3,### Command-line utilities,Command-line utilities
+dominikwilkowski/cfonts,1454,15,9,3,0,10.316,1,81,3227,11,Rust,false,0,### Command-line utilities,Command-line utilities
+codekirei/node-multispinner,291,0,0,0,0,0.000,100,2868,2953,1,JavaScript,false,12,### Command-line utilities,Command-line utilities
+f/omelette,1364,4,0,0,0,2.933,17,660,3853,16,CoffeeScript,false,0,### Command-line utilities,Command-line utilities
+kentcdodds/cross-env,6180,22,10,4,1,3.560,0,1041,2964,49,JavaScript,true,2,### Command-line utilities,Command-line utilities
+shelljs/shelljs,14003,38,18,9,2,2.714,0,0,4272,85,JavaScript,false,16,### Command-line utilities,Command-line utilities
+sindresorhus/sudo-block,98,1,1,1,0,10.204,2,73,3795,7,JavaScript,false,8,### Command-line utilities,Command-line utilities
+sindresorhus/sparkly,421,0,0,0,0,0.000,72,722,3364,7,JavaScript,false,4,### Command-line utilities,Command-line utilities
+teambit/bit,17110,72,42,21,4,4.208,0,0,2485,73,TypeScript,false,0,### Command-line utilities,Command-line utilities
+bokub/gradient-string,969,6,2,1,0,6.192,1,433,2308,1,JavaScript,false,8,### Command-line utilities,Command-line utilities
+oclif/oclif,8609,48,17,10,0,5.576,1,26,2131,54,TypeScript,false,0,### Command-line utilities,Command-line utilities
+sindresorhus/terminal-size,134,0,0,0,0,0.000,70,8,2620,11,JavaScript,false,4,### Command-line utilities,Command-line utilities
+drew-y/cliffy,336,1,0,0,0,2.976,29,516,2112,8,TypeScript,false,0,### Command-line utilities,Command-line utilities
+google/zx,38948,279,141,82,18,7.163,0,68,922,48,JavaScript,false,22,### Command-line utilities,Command-line utilities
+parcel-bundler/parcel,42782,102,54,34,4,2.384,0,0,2288,398,JavaScript,false,22,### Build tools,Build tools
+webpack/webpack,63650,139,61,35,7,2.184,0,30,4265,803,JavaScript,false,96,### Build tools,Build tools
+rollup/rollup,24112,154,70,42,6,6.387,0,1,3104,358,JavaScript,false,79,### Build tools,Build tools
+gulpjs/gulp,32839,33,18,11,2,1.005,0,328,3784,247,JavaScript,false,12,### Build tools,Build tools
+broccolijs/broccoli,3337,4,1,1,0,1.199,3,775,3835,53,JavaScript,false,58,### Build tools,Build tools
+brunch/brunch,6825,0,0,0,0,0.000,43,306,4679,126,JavaScript,true,27,### Build tools,Build tools
+fuse-box/fuse-box,4019,1,0,0,0,0.249,29,347,2572,170,JavaScript,true,77,### Build tools,Build tools
+vercel/pkg,23912,134,66,32,6,5.604,0,117,2652,246,JavaScript,false,37,### Build tools,Build tools
+vitejs/vite,60921,718,351,170,33,11.786,0,0,1301,864,TypeScript,false,0,### Build tools,Build tools
+rwaldron/johnny-five,13118,20,12,5,2,1.525,0,234,4244,135,JavaScript,false,22,### Hardware,Hardware
+serialport/node-serialport,5563,21,12,2,0,3.775,4,4,4815,165,TypeScript,false,0,### Hardware,Hardware
+node-usb/node-usb,1453,10,5,3,0,6.882,2,14,4214,41,TypeScript,false,0,### Hardware,Hardware
+fivdi/i2c-bus,339,5,3,1,0,14.749,3,98,3260,5,JavaScript,false,12,### Hardware,Hardware
+fivdi/onoff,1208,4,2,0,0,3.311,7,778,4036,13,JavaScript,false,12,### Hardware,Hardware
+fivdi/spi-device,116,1,1,0,0,8.621,7,778,2736,3,C++,false,0,### Hardware,Hardware
+fivdi/pigpio,929,7,3,1,0,7.535,3,778,2952,11,JavaScript,false,3,### Hardware,Hardware
+infusion/GPS.js,239,1,1,0,0,4.184,7,595,2847,9,JavaScript,false,9,### Hardware,Hardware
+yaacov/node-modbus-serial,557,10,7,4,1,17.953,0,21,2927,68,JavaScript,false,16,### Hardware,Hardware
+marko-js/marko,12899,78,27,15,3,6.047,0,2,3596,119,JavaScript,false,52,### Templating,Templating
+mozilla/nunjucks,8300,36,21,12,3,4.337,0,207,4113,144,JavaScript,false,32,### Templating,Templating
+handlebars-lang/handlebars.js,17467,56,37,19,2,3.206,0,52,4852,187,JavaScript,false,45,### Templating,Templating
+mde/ejs,7342,49,21,18,3,6.674,0,169,3238,120,JavaScript,false,8,### Templating,Templating
+pugjs/pug,21377,44,30,16,2,2.058,0,689,4891,252,JavaScript,false,5,### Templating,Templating
+fastify/fastify,29009,341,167,72,9,11.755,0,2,2601,679,JavaScript,false,59,### Web frameworks,Web frameworks
+vercel/next.js,114517,1620,662,306,40,14.146,0,0,2594,2975,JavaScript,false,177,### Web frameworks,Web frameworks
+nuxt/nuxt.js,48392,702,314,174,28,14.507,0,0,2574,586,TypeScript,false,0,### Web frameworks,Web frameworks
+hapijs/hapi,14405,38,17,6,2,2.638,0,56,4482,216,JavaScript,false,30,### Web frameworks,Web frameworks
+vercel/micro,10508,19,6,3,0,1.808,3,313,2851,344,TypeScript,false,0,### Web frameworks,Web frameworks
+koajs/koa,34472,112,54,30,2,3.249,0,4,3767,237,JavaScript,false,29,### Web frameworks,Web frameworks
+expressjs/express,62271,275,121,70,12,4.416,0,161,5252,327,JavaScript,false,48,### Web frameworks,Web frameworks
+feathersjs/feathers,14800,36,18,8,2,2.432,0,5,4407,223,TypeScript,false,0,### Web frameworks,Web frameworks
+loopbackio/loopback-next,4677,28,17,12,1,5.987,0,1,2498,217,TypeScript,false,0,### Web frameworks,Web frameworks
+meteor/meteor,43836,89,40,22,2,2.030,0,1,4316,707,JavaScript,false,2,### Web frameworks,Web frameworks
+restify/node-restify,10671,17,5,1,0,1.593,3,94,4584,206,JavaScript,false,45,### Web frameworks,Web frameworks
+thinkjs/thinkjs,5308,6,2,0,0,1.130,7,156,3698,50,JavaScript,false,28,### Web frameworks,Web frameworks
+actionhero/actionhero,2377,5,3,2,0,2.103,1,6,4426,103,TypeScript,false,0,### Web frameworks,Web frameworks
+senecajs/seneca,3932,5,5,4,2,1.272,0,0,4770,59,JavaScript,false,31,### Web frameworks,Web frameworks
+adonisjs/core,14466,109,48,26,2,7.535,0,52,3011,58,TypeScript,false,0,### Web frameworks,Web frameworks
+moleculerjs/moleculer,5871,26,11,7,0,4.429,2,0,2460,116,JavaScript,false,66,### Web frameworks,Web frameworks
+nestjs/nest,60913,718,368,175,27,11.787,0,3,2472,426,TypeScript,false,0,### Web frameworks,Web frameworks
+MichalLytek/type-graphql,7873,18,5,0,0,2.286,9,14,2133,76,TypeScript,false,0,### Web frameworks,Web frameworks
+tinyhttp/tinyhttp,2534,30,11,5,0,11.839,1,16,1248,59,TypeScript,false,0,### Web frameworks,Web frameworks
+marblejs/marble,2122,5,2,1,0,2.356,2,252,2014,18,TypeScript,false,0,### Web frameworks,Web frameworks
+ladjs/lad,2246,2,1,1,0,0.890,3,564,4379,10,JavaScript,false,29,### Web frameworks,Web frameworks
+tsedio/tsed,2640,27,15,5,0,10.227,2,0,2821,133,TypeScript,false,0,### Web frameworks,Web frameworks
+documentationjs/documentation,5733,6,1,0,0,1.047,13,124,3170,130,JavaScript,false,51,### Documentation,Documentation
+jashkenas/docco,3526,5,2,1,0,1.418,5,590,5005,88,HTML,false,0,### Documentation,Documentation
+jsdoc/jsdoc,14366,95,45,28,3,6.613,0,0,4993,79,JavaScript,false,30,### Documentation,Documentation
+facebook/docusaurus,49289,804,393,149,13,16.312,0,1,2336,1175,TypeScript,false,0,### Documentation,Documentation
+sindresorhus/del,1306,1,0,0,0,0.766,14,74,3431,23,JavaScript,false,14,### Filesystem,Filesystem
+sindresorhus/globby,2391,11,7,6,0,4.601,1,3,3431,48,JavaScript,false,14,### Filesystem,Filesystem
+paulmillr/chokidar,10277,72,30,13,0,7.006,2,63,4223,104,JavaScript,false,17,### Filesystem,Filesystem
+sindresorhus/find-up,557,6,4,1,0,10.772,4,386,2995,15,JavaScript,false,7,### Filesystem,Filesystem
+moxystudio/node-proper-lockfile,221,2,1,0,0,9.050,10,1021,3410,12,JavaScript,false,19,### Filesystem,Filesystem
+sindresorhus/load-json-file,235,1,1,0,0,4.255,7,180,2994,15,JavaScript,false,3,### Filesystem,Filesystem
+sindresorhus/write-json-file,209,1,1,1,0,4.785,5,393,2994,10,JavaScript,false,8,### Filesystem,Filesystem
+npm/fs-write-stream-atomic,48,0,0,0,0,0.000,405,1753,3341,146,JavaScript,true,7,### Filesystem,Filesystem
+sindresorhus/filenamify,466,5,1,1,0,10.730,6,203,3225,13,JavaScript,false,4,### Filesystem,Filesystem
+bevry/istextorbinary,131,25,24,11,0,190.840,1,12,3625,7,TypeScript,false,0,### Filesystem,Filesystem
+szwacz/fs-jetpack,761,2,1,0,0,2.628,9,384,3688,14,TypeScript,false,0,### Filesystem,Filesystem
+jprichardson/node-fs-extra,9217,42,18,10,1,4.557,0,17,4379,89,JavaScript,false,11,### Filesystem,Filesystem
+sindresorhus/pkg-dir,227,2,2,0,0,8.811,9,9,2995,9,JavaScript,false,5,### Filesystem,Filesystem
+nspragg/filehound,219,0,0,0,0,0.000,54,561,2809,11,JavaScript,false,18,### Filesystem,Filesystem
+sindresorhus/move-file,198,0,0,0,0,0.000,53,8,2201,4,JavaScript,false,8,### Filesystem,Filesystem
+sindresorhus/tempy,406,6,4,3,0,14.778,4,125,2421,8,JavaScript,false,10,### Filesystem,Filesystem
+sindresorhus/pify,1495,3,2,1,0,2.007,3,427,2998,15,JavaScript,false,5,### Control flow,Control flow
+sindresorhus/delay,589,5,3,1,0,8.489,3,152,2922,16,JavaScript,false,5,### Control flow,Control flow
+nodeca/promise-memoize,58,0,0,0,0,0.000,115,2221,2732,3,JavaScript,false,8,### Control flow,Control flow
+lpinca/valvelet,38,0,0,0,0,0.000,322,57,2719,2,JavaScript,false,3,### Control flow,Control flow
+sindresorhus/p-map,1085,6,2,1,0,5.530,2,205,2579,14,JavaScript,false,7,### Control flow,Control flow
+ReactiveX/RxJS,29606,136,79,41,6,4.594,0,2,3165,549,TypeScript,false,0,### Control flow,Control flow
+sindresorhus/awesome-observables,331,1,1,0,0,3.021,9,760,2750,3,,false,0,### Control flow,Control flow
+caolan/highland,3428,3,1,1,0,0.875,5,1243,4097,60,JavaScript,false,26,### Control flow,Control flow
+sindresorhus/get-stream,327,4,2,1,1,12.232,0,15,2951,17,JavaScript,false,6,### Streams,Streams
+hughsk/from2,131,0,0,0,0,0.000,118,2645,3563,6,JavaScript,false,3,### Streams,Streams
+sindresorhus/into-stream,204,1,0,0,0,4.902,15,170,3089,9,JavaScript,false,5,### Streams,Streams
+mafintosh/duplexify,186,1,0,0,0,5.376,14,845,3415,11,JavaScript,false,7,### Streams,Streams
+mafintosh/pumpify,251,0,0,0,0,0.000,70,1361,3411,5,JavaScript,false,5,### Streams,Streams
+mafintosh/peek-stream,55,0,0,0,0,0.000,226,2062,3399,2,JavaScript,false,5,### Streams,Streams
+maxogden/binary-split,77,1,1,0,0,12.987,11,1847,3719,6,JavaScript,false,3,### Streams,Streams
+jahewson/node-byline,323,0,0,0,0,0.000,70,2671,4456,3,JavaScript,false,2,### Streams,Streams
+sindresorhus/first-chunk-stream,27,0,0,0,0,0.000,197,11,3458,8,JavaScript,false,7,### Streams,Streams
+sindresorhus/pad-stream,11,0,0,0,0,0.000,70,73,3214,2,JavaScript,false,7,### Streams,Streams
+feross/multistream,284,0,0,0,0,0.000,45,1012,3417,9,JavaScript,false,9,### Streams,Streams
+nodejs/readable-stream,1010,2,0,0,0,1.980,23,133,4127,79,JavaScript,false,32,### Streams,Streams
+almost/through2-concurrent,74,0,0,0,0,0.000,405,1732,3321,5,JavaScript,false,4,### Streams,Streams
+uNetworking/uWebSockets,16224,115,50,22,3,7.088,0,7,2793,96,C++,false,0,### Real-time,Real-time
+socketio/socket.io,59280,213,106,53,4,3.593,0,33,4994,218,TypeScript,false,0,### Real-time,Real-time
+faye/faye,4384,6,2,2,1,1.369,0,1199,5273,37,JavaScript,false,13,### Real-time,Real-time
+SocketCluster/socketcluster,6097,8,2,1,0,1.312,3,5,3703,28,JavaScript,false,3,### Real-time,Real-time
+primus/primus,4434,7,2,0,0,1.579,12,6,3793,61,JavaScript,false,48,### Real-time,Real-time
+deepstreamIO/deepstream.io-client-js,293,0,0,0,0,0.000,204,163,3269,28,TypeScript,false,0,### Real-time,Real-time
+kalm/kalm.js,201,2,2,1,0,9.950,3,235,2446,4,TypeScript,false,0,### Real-time,Real-time
+mqttjs/MQTT.js,7992,48,18,10,1,6.006,0,3,4605,192,TypeScript,false,0,### Real-time,Real-time
+elpheria/rpc-websockets,530,2,0,0,0,3.774,23,14,2588,21,JavaScript,false,23,### Real-time,Real-time
+moscajs/aedes,1672,11,6,5,1,6.579,0,4,3174,50,JavaScript,false,31,### Real-time,Real-time
+lovell/sharp,26652,252,115,43,6,9.455,0,55,3737,187,JavaScript,false,22,### Image,Image
+sindresorhus/image-type,354,6,5,3,0,16.949,2,7,3492,6,JavaScript,false,6,### Image,Image
+sindresorhus/image-dimensions,216,216,216,173,7,1000.000,0,5,7,3,JavaScript,false,3,### Image,Image
+aheckmann/gm,6890,10,5,2,0,1.451,1,417,4903,74,JavaScript,false,5,### Image,Image
+EyalAr/lwip,2354,4,1,1,0,1.699,6,2673,3424,12,C,false,0,### Image,Image
+nodeca/pica,3453,15,8,3,0,4.344,1,667,3361,23,JavaScript,false,18,### Image,Image
+oliver-moran/jimp,13090,59,21,13,1,4.507,0,109,3347,153,JavaScript,false,41,### Image,Image
+soldair/node-qrcode,6887,51,24,11,1,7.405,0,205,4710,44,JavaScript,false,20,### Image,Image
+matmen/ImageScript,546,8,4,1,0,14.652,3,7,1093,6,JavaScript,false,0,### Image,Image
+ashtuchkin/iconv-lite,2951,10,2,0,0,3.389,13,631,4386,35,JavaScript,false,9,### Text,Text
+sindresorhus/string-length,156,2,0,0,0,12.821,18,162,3497,9,JavaScript,false,4,### Text,Text
+sindresorhus/camelcase,656,9,5,3,0,13.720,1,45,3319,28,JavaScript,false,3,### Text,Text
+sindresorhus/escape-string-regexp,558,2,0,0,0,3.584,18,939,3428,6,JavaScript,false,3,### Text,Text
+sindresorhus/splice-string,22,0,0,0,0,0.000,70,942,3007,2,JavaScript,false,3,### Text,Text
+sindresorhus/indent-string,109,0,0,0,0,0.000,70,526,3446,10,JavaScript,false,3,### Text,Text
+sindresorhus/strip-indent,131,0,0,0,0,0.000,70,787,3515,7,JavaScript,false,4,### Text,Text
+sindresorhus/detect-indent,190,1,0,0,0,5.263,19,35,3746,13,JavaScript,false,4,### Text,Text
+mathiasbynens/he,3305,15,4,3,0,4.539,1,1876,3793,7,JavaScript,false,14,### Text,Text
+mashpie/i18n-node,3046,4,1,0,0,1.313,11,26,4615,58,JavaScript,false,26,### Text,Text
+nodeca/babelfish,250,0,0,0,0,0.000,56,713,4366,9,JavaScript,false,11,### Text,Text
+sindresorhus/matcher,533,0,0,0,0,0.000,66,771,2838,12,JavaScript,false,5,### Text,Text
+nodeca/unhomoglyph,34,0,0,0,0,0.000,75,1274,2530,6,JavaScript,false,2,### Text,Text
+i18next/i18next,7086,71,38,17,5,10.020,0,0,4350,209,JavaScript,false,55,### Text,Text
+ai/nanoid,22006,210,110,65,4,9.543,0,0,2291,124,JavaScript,false,30,### Text,Text
+kurolabs/stegcloak,3061,31,15,11,1,10.127,0,561,1293,8,JavaScript,false,24,### Text,Text
+sindresorhus/random-int,85,0,0,0,0,0.000,70,939,3061,4,JavaScript,false,5,### Number,Number
+sindresorhus/random-float,33,0,0,0,0,0.000,70,938,3061,4,JavaScript,false,6,### Number,Number
+sindresorhus/unique-random,115,0,0,0,0,0.000,70,492,3651,4,JavaScript,false,3,### Number,Number
+sindresorhus/round-to,153,0,0,0,0,0.000,88,100,3013,8,JavaScript,false,3,### Number,Number
+scijs/ndarray,1166,4,0,0,0,3.431,17,1408,3912,14,JavaScript,false,6,### Math,Math
+josdejong/mathjs,13639,81,36,22,3,5.939,0,4,3922,211,JavaScript,false,65,### Math,Math
+sindresorhus/math-clamp,11,0,0,0,0,0.000,70,8,3052,3,JavaScript,false,2,### Math,Math
+fibo/algebra,105,0,0,0,0,0.000,72,183,4079,2,TypeScript,false,0,### Math,Math
+nodeca/multimath,66,0,0,0,0,0.000,184,915,2402,5,JavaScript,false,8,### Math,Math
+moment/luxon,14425,98,50,28,4,6.794,0,0,2905,227,JavaScript,false,20,### Date,Date
+date-fns/date-fns,32586,182,91,51,9,5.585,0,0,3325,374,TypeScript,false,0,### Date,Date
+iamkun/dayjs,44638,318,126,66,8,7.124,0,39,2043,329,JavaScript,false,29,### Date,Date
+felixge/node-dateformat,1293,1,0,0,0,0.773,29,632,4627,32,JavaScript,false,5,### Date,Date
+samverschueren/tz-format,10,0,0,0,0,0.000,206,2594,2905,1,JavaScript,false,3,### Date,Date
+floatdrop/node-cctz,59,0,0,0,0,0.000,405,2128,2543,3,C++,false,0,### Date,Date
+sindresorhus/normalize-url,803,9,5,1,0,11.208,6,119,3227,43,JavaScript,false,4,### URL,URL
+sindresorhus/humanize-url,244,0,0,0,0,0.000,45,492,3227,3,JavaScript,false,4,### URL,URL
+nodeca/url-unshort,109,0,0,0,0,0.000,42,387,3020,4,JavaScript,false,12,### URL,URL
+pid/speakingurl,1101,2,0,0,0,1.817,20,2233,3828,31,JavaScript,false,15,### URL,URL
+markdown-it/linkify-it,623,2,1,0,0,3.210,10,560,3199,14,JavaScript,false,16,### URL,URL
+snd/url-pattern,572,0,0,0,0,0.000,47,2551,4253,8,CoffeeScript,false,0,### URL,URL
+nodeca/embedza,62,0,0,0,0,0.000,41,744,3052,3,JavaScript,false,13,### URL,URL
+sideway/joi,20288,65,28,18,2,3.204,0,39,4074,225,JavaScript,false,12,### Data validation,Data validation
+mafintosh/is-my-json-valid,953,0,0,0,0,0.000,37,733,3391,27,JavaScript,false,8,### Data validation,Data validation
+nettofarah/property-validator,157,0,0,0,0,0.000,279,1439,2857,7,JavaScript,false,9,### Data validation,Data validation
+schema-inspector/schema-inspector,500,1,1,0,0,2.000,10,42,3602,18,JavaScript,false,4,### Data validation,Data validation
+ajv-validator/ajv,12937,83,32,14,4,6.416,0,167,3099,190,TypeScript,false,0,### Data validation,Data validation
+ianstormtaylor/superstruct,6691,30,19,9,2,4.484,0,360,2181,61,TypeScript,false,0,### Data validation,Data validation
+jquense/yup,21461,189,74,33,7,8.807,0,44,3338,161,TypeScript,false,0,### Data validation,Data validation
+remarkjs/remark,6836,102,40,21,3,14.921,0,19,3394,123,JavaScript,false,13,### Parsing,Parsing
+markdown-it/markdown-it,16232,146,79,39,3,8.995,0,47,3250,74,JavaScript,false,40,### Parsing,Parsing
+inikulin/parse5,3456,13,7,2,1,3.762,0,0,3891,36,TypeScript,false,0,### Parsing,Parsing
+parcel-bundler/parcel-css,5051,114,62,26,5,22.570,0,5,764,55,Rust,false,23,### Parsing,Parsing
+sindresorhus/strip-json-comments,589,0,0,0,0,0.000,39,132,3647,18,JavaScript,false,4,### Parsing,Parsing
+sindresorhus/strip-css-comments,121,0,0,0,0,0.000,77,492,3308,8,CSS,false,0,### Parsing,Parsing
+sindresorhus/parse-json,324,3,1,0,0,9.259,11,4,3001,15,JavaScript,false,10,### Parsing,Parsing
+medialize/URI.js,6251,4,2,1,0,0.640,2,589,4339,71,JavaScript,false,0,### Parsing,Parsing
+dominictarr/JSONStream,1893,5,1,1,1,2.641,0,1856,4434,32,JavaScript,true,8,### Parsing,Parsing
+sindresorhus/neat-csv,306,1,0,0,0,3.268,26,145,3089,5,JavaScript,false,5,### Parsing,Parsing
+mafintosh/csv-parser,1366,9,7,5,0,6.589,1,1075,3468,33,JavaScript,false,26,### Parsing,Parsing
+pegjs/pegjs,4684,16,7,4,0,3.416,3,1457,4965,26,JavaScript,false,7,### Parsing,Parsing
+matthewmueller/x-ray,5796,22,18,5,0,3.796,3,1187,3203,41,JavaScript,false,20,### Parsing,Parsing
+kach/nearley,3484,19,12,10,4,5.454,0,674,3549,49,JavaScript,false,15,### Parsing,Parsing
+juliangruber/binary-extract,153,0,0,0,0,0.000,35,2102,3528,3,JavaScript,false,2,### Parsing,Parsing
+stylecow/stylecow,161,0,0,0,0,0.000,133,1353,3391,2,JavaScript,false,13,### Parsing,Parsing
+nodeca/js-yaml,6060,20,9,4,1,3.300,0,442,4424,74,JavaScript,false,15,### Parsing,Parsing
+Leonidas-from-XIV/node-xml2js,4752,6,3,1,0,1.263,3,110,4867,67,CoffeeScript,false,0,### Parsing,Parsing
+zaach/jison,4305,6,3,2,1,1.394,0,1111,5095,47,JavaScript,false,12,### Parsing,Parsing
+ruimarinho/google-libphonenumber,1322,15,7,5,0,11.346,3,96,3297,12,JavaScript,false,6,### Parsing,Parsing
+TooTallNate/ref,444,1,0,0,0,2.252,29,96,4212,15,JavaScript,false,9,### Parsing,Parsing
+dtjohnson/xlsx-populate,897,8,3,2,0,8.919,5,1351,3178,21,JavaScript,false,35,### Parsing,Parsing
+Chevrotain/chevrotain,2306,45,29,7,2,19.514,0,81,3133,65,TypeScript,false,0,### Parsing,Parsing
+NaturalIntelligence/fast-xml-parser,2152,32,10,4,1,14.870,0,42,2479,82,JavaScript,false,15,### Parsing,Parsing
+sindresorhus/pretty-bytes,1038,7,3,3,2,6.744,0,120,3563,17,JavaScript,false,3,### Humanize,Humanize
+sindresorhus/pretty-ms,935,3,1,0,0,3.209,9,493,3524,18,JavaScript,false,4,### Humanize,Humanize
+vercel/ms,4791,41,22,15,5,8.558,0,150,4267,213,TypeScript,false,0,### Humanize,Humanize
+AriaMinaei/pretty-error,1509,6,3,2,0,3.976,2,750,3668,9,CoffeeScript,false,0,### Humanize,Humanize
+Tjatse/node-readability,339,0,0,0,0,0.000,48,1930,3474,3,JavaScript,false,9,### Humanize,Humanize
+thejoshwolfe/yazl,316,1,1,0,0,3.165,12,1808,3358,8,JavaScript,false,4,### Compression,Compression
+thejoshwolfe/yauzl,651,1,1,0,0,1.536,12,1335,3373,10,JavaScript,false,5,### Compression,Compression
+archiverjs/node-archiver,2657,14,7,3,2,5.269,0,57,4052,36,JavaScript,false,16,### Compression,Compression
+nodeca/pako,5093,44,22,10,1,8.639,0,247,3578,23,JavaScript,false,13,### Compression,Compression
+mafintosh/tar-stream,387,3,2,1,0,7.752,5,130,3614,43,JavaScript,false,6,### Compression,Compression
+sindresorhus/get-port,826,7,2,1,0,8.475,2,162,3507,20,JavaScript,false,4,### Network,Network
+sindresorhus/ipify,260,2,2,1,0,7.692,3,681,3373,8,JavaScript,false,5,### Network,Network
+bevry/getmac,323,2,2,1,0,6.192,5,12,3926,9,TypeScript,false,0,### Network,Network
+infusion/node-dhcp,289,3,0,0,0,10.381,18,595,2378,10,JavaScript,false,3,### Network,Network
+roccomuso/netcat,394,1,1,0,0,2.538,12,1341,2380,3,JavaScript,false,10,### Network,Network
+brianc/node-postgres,11562,67,35,19,1,5.795,0,24,4776,300,JavaScript,false,9,### Database,Database
+luin/ioredis,12396,73,28,17,4,5.889,0,59,3147,165,TypeScript,false,0,### Database,Database
+Level/levelup,4058,3,1,0,0,0.739,11,407,4108,42,JavaScript,false,28,### Database,Database
+mysqljs/mysql,18004,36,17,9,2,2.000,0,609,4854,131,JavaScript,false,9,### Database,Database
+apache/couchdb-nano,615,2,0,0,0,3.252,18,90,3044,163,JavaScript,false,8,### Database,Database
+aerospike/aerospike-client-nodejs,197,0,0,0,0,0.000,304,5,3561,162,JavaScript,false,21,### Database,Database
+couchbase/couchnode,464,1,0,0,0,2.155,15,41,4111,63,C++,false,0,### Database,Database
+mongodb/node-mongodb-native,9868,29,11,6,2,2.939,0,3,5058,853,TypeScript,false,0,### Database,Database
+sequelize/sequelize,28571,118,68,32,6,4.130,0,0,4862,1061,JavaScript,false,26,### Database,Database
+bookshelf/bookshelf,6334,6,3,2,0,0.947,2,987,3904,162,JavaScript,false,22,### Database,Database
+Automattic/mongoose,26170,125,57,24,3,4.776,0,2,4968,990,JavaScript,false,48,### Database,Database
+balderdashy/waterline,5411,3,2,0,0,0.554,8,337,3838,124,JavaScript,false,12,### Database,Database
+PhilWaldmann/openrecord,485,0,0,0,0,0.000,40,980,3584,13,JavaScript,true,37,### Database,Database
+vitaly-t/pg-promise,3368,17,7,2,0,5.048,3,83,3176,31,JavaScript,false,16,### Database,Database
+gajus/slonik,4170,51,19,11,1,12.230,0,13,2425,44,TypeScript,false,0,### Database,Database
+Vincit/objection.js,7118,23,11,6,1,3.231,0,11,3135,162,JavaScript,false,18,### Database,Database
+typeorm/typeorm,32427,208,105,66,7,6.414,0,39,2814,998,TypeScript,false,0,### Database,Database
+mikro-orm/mikro-orm,6595,80,37,22,6,12.130,0,0,2069,198,TypeScript,false,0,### Database,Database
+prisma/prisma,34700,570,261,135,29,16.427,0,0,1606,240,TypeScript,false,0,### Database,Database
+knex/knex,18202,137,54,24,2,7.527,0,27,3971,542,JavaScript,false,54,### Database,Database
+louischatriot/nedb,13371,14,8,2,0,1.047,3,857,3847,27,JavaScript,false,11,### Database,Database
+typicode/lowdb,20211,148,58,22,2,7.323,0,20,3512,35,JavaScript,false,18,### Database,Database
+jaredwray/keyv,2277,18,8,6,2,7.905,0,0,2319,59,TypeScript,false,0,### Database,Database
+tommybananas/finale,184,0,0,0,0,0.000,142,390,2194,43,JavaScript,false,14,### Database,Database
+mlaanderson/database-js,74,1,0,0,0,13.514,23,402,2307,4,JavaScript,false,0,### Database,Database
+pkosiec/mongo-seeding,521,6,2,1,0,11.516,5,41,2184,7,TypeScript,false,0,### Database,Database
+ForbesLindesay/atdatabases,559,6,3,0,0,10.733,10,30,1789,21,TypeScript,false,0,### Database,Database
+oguimbal/pg-mem,1594,23,9,4,0,14.429,1,42,1214,22,TypeScript,false,0,### Database,Database
+avajs/ava,20528,32,18,4,1,1.559,0,6,3281,308,JavaScript,false,55,### Testing,Testing
+mochajs/mocha,22254,50,23,14,3,2.247,0,4,4633,486,JavaScript,false,88,### Testing,Testing
+istanbuljs/nyc,5439,12,5,2,1,2.206,0,948,3110,104,JavaScript,false,37,### Testing,Testing
+tapjs/node-tap,2268,15,6,2,1,6.614,0,9,4619,91,JavaScript,false,77,### Testing,Testing
+substack/tape,5751,8,4,1,0,1.391,3,23,4004,107,JavaScript,false,40,### Testing,Testing
+power-assert-js/power-assert,2786,4,3,1,0,1.436,6,813,3736,19,JavaScript,false,25,### Testing,Testing
+mantoni/mochify.js,344,0,0,0,0,0.000,214,582,3572,33,JavaScript,false,18,### Testing,Testing
+vadimdemedes/trevor,2124,0,0,0,0,0.000,167,1450,2965,12,JavaScript,false,17,### Testing,Testing
+alexfernandez/loadtest,2496,11,5,1,0,4.407,4,3,3796,41,JavaScript,false,9,### Testing,Testing
+sinonjs/sinon,9474,38,10,5,0,4.011,1,6,4884,331,JavaScript,false,26,### Testing,Testing
+nodeca/navit,47,0,0,0,0,0.000,405,704,3156,6,JavaScript,false,6,### Testing,Testing
+nock/nock,12346,41,18,9,0,3.321,3,10,4435,253,JavaScript,false,27,### Testing,Testing
+theintern/intern,4363,3,0,0,0,0.688,19,290,3883,80,TypeScript,false,0,### Testing,Testing
+h2non/toxy,2733,4,2,1,0,1.464,3,633,3028,10,JavaScript,false,13,### Testing,Testing
+sindresorhus/hook-std,53,0,0,0,0,0.000,405,492,2891,8,JavaScript,false,4,### Testing,Testing
+egoist/testen,175,0,0,0,0,0.000,405,1428,2827,3,JavaScript,false,16,### Testing,Testing
+nightwatchjs/nightwatch,11476,37,22,16,1,3.224,0,5,4257,119,JavaScript,false,68,### Testing,Testing
+webdriverio/webdriverio,8355,63,25,11,0,7.540,1,0,4457,541,TypeScript,false,0,### Testing,Testing
+facebook/jest,42933,173,77,37,4,4.030,0,6,3625,1504,TypeScript,false,0,### Testing,Testing
+DevExpress/testcafe,9697,14,8,6,1,1.444,0,3,3128,121,JavaScript,false,178,### Testing,Testing
+bleenco/abstruse,905,9,2,1,1,9.945,0,22,2435,21,Go,false,37,### Testing,Testing
+codeceptjs/CodeceptJS,3973,9,2,0,0,2.265,7,1,2913,372,JavaScript,false,92,### Testing,Testing
+puppeteer/puppeteer,85029,405,200,100,14,4.763,0,0,2378,475,TypeScript,false,0,### Testing,Testing
+microsoft/playwright,56513,1019,554,290,26,18.031,0,0,1458,10000,TypeScript,false,0,### Testing,Testing
+ehmicky/nve,661,5,1,1,0,7.564,4,21,1558,1,JavaScript,false,19,### Testing,Testing
+dequelabs/axe-core,5391,52,30,19,3,9.646,0,4,3077,203,JavaScript,false,67,### Testing,Testing
+testcontainers/testcontainers-node,1327,25,17,8,1,18.839,0,17,2137,64,TypeScript,false,0,### Testing,Testing
+simonepri/upash,523,4,3,1,0,7.648,1,1924,2292,2,JavaScript,false,5,### Security,Security
+cossacklabs/themis,1765,11,5,4,1,6.232,0,3,3112,28,C,false,0,### Security,Security
+animir/node-rate-limiter-flexible,2690,37,24,12,1,13.755,0,2,2017,36,JavaScript,false,14,### Security,Security
+sindresorhus/crypto-hash,628,21,21,2,1,33.439,0,21,2076,8,JavaScript,false,5,### Security,Security
+davesag/jose-simple,60,1,1,1,0,16.667,5,0,2286,3,JavaScript,false,19,### Security,Security
+bestiejs/benchmark.js,5443,13,5,3,0,2.388,3,1813,4554,19,JavaScript,false,8,### Benchmarking,Benchmarking
+babel/minify,4371,1,1,0,0,0.229,9,555,2775,93,JavaScript,false,32,### Minifiers,Minifiers
+mishoo/UglifyJS,12776,34,16,5,1,2.661,0,300,4095,124,JavaScript,false,2,### Minifiers,Minifiers
+clean-css/clean-css,4078,7,5,3,1,1.717,0,298,4641,91,JavaScript,false,9,### Minifiers,Minifiers
+Swaagie/minimize,163,1,1,1,0,6.135,5,2124,3918,10,JavaScript,false,13,### Minifiers,Minifiers
+imagemin/imagemin,5441,20,10,7,1,3.676,0,823,3661,23,JavaScript,false,15,### Minifiers,Minifiers
+jaredhanson/passport,21922,90,38,17,2,4.105,0,247,4418,34,JavaScript,false,9,### Authentication,Authentication
+simov/grant,3948,12,7,1,0,3.040,5,9,3309,53,JavaScript,false,27,### Authentication,Authentication
+stalniy/casl,5244,49,15,7,0,9.344,3,3,2308,63,JavaScript,false,1,### Authorization,Authorization
+casbin/node-casbin,2365,17,10,6,0,7.188,3,54,1947,79,TypeScript,false,0,### Authorization,Authorization
+nodemailer/nodemailer,15989,78,48,30,2,4.878,0,7,4680,136,JavaScript,false,18,### Email,Email
+eleith/emailjs,2141,6,1,1,0,2.802,3,68,4645,34,HTML,false,0,### Email,Email
+forwardemail/email-templates,3587,8,6,1,0,2.230,3,146,4167,56,JavaScript,false,25,### Email,Email
+mjmlio/mjml,15906,115,74,52,4,7.230,0,34,2845,154,JavaScript,false,16,### Email,Email
+OptimalBits/bull,14567,120,56,29,4,8.238,0,1,3790,222,JavaScript,false,33,### Job queues,Job queues
+agenda/agenda,9070,44,22,11,0,4.851,1,311,3667,134,TypeScript,false,0,### Job queues,Job queues
+nodeca/idoit,71,0,0,0,0,0.000,45,993,2587,3,JavaScript,false,8,### Job queues,Job queues
+actionhero/node-resque,1294,5,2,1,0,3.864,4,0,3704,70,TypeScript,false,0,### Job queues,Job queues
+smrchy/rsmq,1681,4,0,0,0,2.380,17,882,3816,12,JavaScript,false,9,### Job queues,Job queues
+bee-queue/bee-queue,3416,35,22,8,0,10.246,1,1,3220,39,JavaScript,false,25,### Job queues,Job queues
+weyoss/redis-smq,549,5,2,2,0,9.107,1,232,2321,2,TypeScript,false,0,### Job queues,Job queues
+bbc/sqs-consumer,1554,11,3,1,0,7.079,1,0,3251,127,TypeScript,false,0,### Job queues,Job queues
+diamondio/better-queue,468,7,3,0,0,14.957,7,416,2863,13,JavaScript,false,5,### Job queues,Job queues
+taskforcesh/bullmq,4546,122,60,35,7,26.837,0,1,1789,122,TypeScript,false,0,### Job queues,Job queues
+tj/n,18104,94,48,25,4,5.192,0,29,4694,86,Shell,false,0,### Node.js management,Node.js management
+isaacs/nave,1588,6,2,1,1,3.778,0,33,4930,24,Shell,false,0,### Node.js management,Node.js management
+ekalinin/nodeenv,1634,12,5,1,0,7.344,5,38,4611,87,Python,false,0,### Node.js management,Node.js management
+coreybutler/nvm-windows,31465,643,307,154,24,20.435,0,5,3340,74,Go,false,0,### Node.js management,Node.js management
+nodenv/nodenv,2064,23,9,6,2,11.143,0,222,3899,119,Shell,false,0,### Node.js management,Node.js management
+Schniz/fnm,13841,304,149,83,13,21.964,0,31,1761,75,Rust,false,21,### Node.js management,Node.js management
+napi-rs/napi-rs,4750,155,69,37,6,32.632,0,0,2025,90,Rust,false,0,### Cross-platform integration,Cross-platform integration
+neon-bindings/neon,7557,82,23,5,0,10.851,1,85,2977,70,Rust,false,0,### Cross-platform integration,Cross-platform integration
+tjanczuk/edge,5377,10,8,2,1,1.860,0,2019,3917,39,C++,false,0,### Cross-platform integration,Cross-platform integration
+Elringus/DotNetJS,600,5,1,1,0,8.333,2,24,730,6,JavaScript,false,0,### Cross-platform integration,Cross-platform integration
+retextjs/retext,2299,10,5,2,1,4.350,0,61,3449,17,JavaScript,false,12,### Natural language processing,Natural language processing
+wooorm/franc,3927,12,5,3,0,3.056,1,355,3403,9,JavaScript,false,29,### Natural language processing,Natural language processing
+sindresorhus/leven,693,2,1,1,1,2.886,0,825,3382,7,JavaScript,false,12,### Natural language processing,Natural language processing
+NaturalNode/natural,10348,32,16,6,1,3.092,0,28,4573,137,JavaScript,false,26,### Natural language processing,Natural language processing
+axa-group/nlp.js,5897,45,17,5,1,7.631,0,171,1931,65,JavaScript,false,12,### Natural language processing,Natural language processing
+Unitech/pm2,39927,169,76,40,8,4.233,0,214,3828,274,JavaScript,false,31,### Process management,Process management
+remy/nodemon,25672,85,36,19,2,3.311,0,11,4789,166,JavaScript,false,21,### Process management,Process management
+coreybutler/node-mac,529,1,1,1,0,1.890,4,1221,3898,8,JavaScript,false,3,### Process management,Process management
+coreybutler/node-linux,415,0,0,0,0,0.000,34,1320,3828,10,JavaScript,false,3,### Process management,Process management
+coreybutler/node-windows,2695,14,9,4,1,5.195,0,54,3953,37,JavaScript,false,2,### Process management,Process management
+petruisfan/node-supervisor,3769,3,2,2,0,0.796,1,2155,5027,41,JavaScript,false,1,### Process management,Process management
+phusion/passenger,4962,13,6,3,0,2.620,2,5,5708,117,C++,false,0,### Process management,Process management
+octalmage/robotjs,11921,37,19,11,2,3.104,0,796,3360,51,C,false,0,### Automation,Automation
+nut-tree/nut.js,1690,18,8,4,1,10.651,0,26,1909,10,TypeScript,false,0,### Automation,Automation
+acornjs/acorn,9845,85,42,19,4,8.634,0,2,4067,118,JavaScript,false,10,### AST,AST
+docpad/docpad,3049,4,3,1,0,1.312,6,1086,4624,46,CoffeeScript,false,0,### Static site generators,Static site generators
+docsifyjs/docsify,25468,323,141,71,13,12.683,0,21,2549,179,JavaScript,false,48,### Static site generators,Static site generators
+brandonweiss/charge,419,0,0,0,0,0.000,42,1176,2071,7,JavaScript,false,41,### Static site generators,Static site generators
+keystonejs/keystone,8439,100,48,28,5,11.850,0,0,2048,249,TypeScript,false,0,### Content management systems,Content management systems
+apostrophecms/apostrophe,4163,17,7,4,1,4.084,0,3,3929,109,JavaScript,false,125,### Content management systems,Content management systems
+strapi/strapi,57249,781,291,158,17,13.642,0,0,2965,959,JavaScript,false,58,### Content management systems,Content management systems
+FactorJS/factor,1356,2,1,1,0,1.475,3,317,1714,1,TypeScript,false,0,### Content management systems,Content management systems
+SoftwareBrothers/adminjs,7499,130,39,19,4,17.336,0,27,1815,62,TypeScript,false,0,### Content management systems,Content management systems
+NodeBB/NodeBB,13646,65,25,11,1,4.763,0,4,3856,212,JavaScript,false,0,### Forum,Forum
+TryGhost/Ghost,44373,305,128,65,8,6.874,0,0,3845,557,JavaScript,false,10,### Blogging,Blogging
+hexojs/hexo,37663,174,91,53,8,4.620,0,5,4067,187,JavaScript,false,42,### Blogging,Blogging
+sindresorhus/cows,401,0,0,0,0,0.000,62,1004,2826,9,JavaScript,false,2,### Weird,Weird
+sindresorhus/superb,393,1,0,0,0,2.545,21,1045,3415,12,JavaScript,false,4,### Weird,Weird
+sindresorhus/cat-names,262,0,0,0,0,0.000,219,515,3224,4,JavaScript,false,5,### Weird,Weird
+sindresorhus/dog-names,126,0,0,0,0,0.000,70,515,3224,4,JavaScript,false,6,### Weird,Weird
+sindresorhus/superheroes,236,0,0,0,0,0.000,42,252,3108,3,JavaScript,false,4,### Weird,Weird
+sindresorhus/supervillains,117,0,0,0,0,0.000,70,438,3108,7,JavaScript,false,4,### Weird,Weird
+maxogden/cool-ascii-faces,1755,3,1,1,0,1.709,4,2802,3589,24,JavaScript,false,1,### Weird,Weird
+melaniecebula/cat-ascii-faces,244,0,0,0,0,0.000,95,3230,3237,1,JavaScript,false,1,### Weird,Weird
+SkyHacks/nerds,106,0,0,0,0,0.000,65,2666,2677,1,JavaScript,false,5,### Weird,Weird
+kesla/node-snappy,479,0,0,0,0,0.000,132,1137,4614,20,JavaScript,true,11,### Serialization,Serialization
+protobufjs/protobuf.js,9388,65,33,9,1,6.924,0,83,3908,105,JavaScript,false,42,### Serialization,Serialization
+compactr/compactr.js,99,0,0,0,0,0.000,88,1137,2648,2,JavaScript,false,6,### Serialization,Serialization
+sindresorhus/execa,6020,47,20,12,0,7.807,1,11,2899,53,JavaScript,false,19,### Miscellaneous,Miscellaneous
+cheeriojs/cheerio,27100,138,59,25,5,5.092,0,0,4418,131,TypeScript,false,0,### Miscellaneous,Miscellaneous
+sindresorhus/open,3008,16,9,4,1,5.319,0,190,3508,50,JavaScript,false,8,### Miscellaneous,Miscellaneous
+sindresorhus/hasha,938,5,5,2,0,5.330,1,2,3096,10,JavaScript,false,7,### Miscellaneous,Miscellaneous
+sindresorhus/dot-prop,781,3,0,0,0,3.841,15,117,3231,23,JavaScript,false,6,### Miscellaneous,Miscellaneous
+sindresorhus/onetime,152,0,0,0,0,0.000,65,7,3633,9,JavaScript,false,4,### Miscellaneous,Miscellaneous
+sindresorhus/mem,1031,8,2,2,0,7.759,2,190,2883,17,TypeScript,false,0,### Miscellaneous,Miscellaneous
+sindresorhus/strip-bom,107,0,0,0,0,0.000,70,940,3509,7,JavaScript,false,3,### Miscellaneous,Miscellaneous
+sindresorhus/os-locale,221,0,0,0,0,0.000,69,689,3164,16,JavaScript,false,5,### Miscellaneous,Miscellaneous
+mscdex/ssh2,5291,25,15,7,0,4.725,5,88,4119,38,JavaScript,false,4,### Miscellaneous,Miscellaneous
+markelog/adit,53,0,0,0,0,0.000,40,2443,2961,2,JavaScript,false,21,### Miscellaneous,Miscellaneous
+sindresorhus/file-type,3302,43,35,24,1,13.022,0,2,3490,103,JavaScript,false,10,### Miscellaneous,Miscellaneous
+SGrondin/bottleneck,1630,17,7,2,1,10.429,0,1209,3590,14,JavaScript,false,17,### Miscellaneous,Miscellaneous
+audreyt/node-webworker-threads,2288,2,2,2,0,0.874,3,789,4027,30,C++,false,0,### Miscellaneous,Miscellaneous
+sindresorhus/clipboardy,1678,45,12,2,0,26.818,4,21,2534,14,JavaScript,false,6,### Miscellaneous,Miscellaneous
+mapbox/node-pre-gyp,1081,4,3,1,0,3.700,5,122,3635,567,JavaScript,false,21,### Miscellaneous,Miscellaneous
+peterbraden/node-opencv,4335,9,4,1,0,2.076,6,296,4320,101,C++,false,0,### Miscellaneous,Miscellaneous
+motdotla/dotenv,17891,133,66,35,5,7.434,0,8,3782,74,JavaScript,false,10,### Miscellaneous,Miscellaneous
+npm/node-semver,4827,29,17,9,1,6.008,0,55,4657,186,JavaScript,false,4,### Miscellaneous,Miscellaneous
+nodegit/nodegit,5513,15,3,1,0,2.721,3,275,4650,151,JavaScript,false,20,### Miscellaneous,Miscellaneous
+pigulla/json-strictify,19,0,0,0,0,0.000,43,0,3344,2,TypeScript,false,0,### Miscellaneous,Miscellaneous
+jsdom/jsdom,19361,97,57,28,5,5.010,0,170,5046,311,JavaScript,false,37,### Miscellaneous,Miscellaneous
+sindresorhus/is,1585,8,2,1,0,5.047,5,17,2243,48,TypeScript,false,0,### Miscellaneous,Miscellaneous
+simonepri/env-dot-prop,33,0,0,0,0,0.000,64,1228,2305,2,JavaScript,false,4,### Miscellaneous,Miscellaneous
+gkozlenko/node-video-lib,343,0,0,0,0,0.000,65,16,2725,1,JavaScript,false,4,### Miscellaneous,Miscellaneous
+xxczaki/cashify,395,1,0,0,0,2.532,27,702,1558,5,TypeScript,false,0,### Miscellaneous,Miscellaneous
+Geode-solutions/genepi,72,3,1,0,0,41.667,11,809,1503,8,C++,false,0,### Miscellaneous,Miscellaneous
+typicode/husky,30504,157,84,46,4,5.147,0,18,3430,111,JavaScript,false,7,### Miscellaneous,Miscellaneous
+ds300/patch-package,9485,123,69,24,5,12.968,0,98,2379,51,TypeScript,false,0,### Miscellaneous,Miscellaneous
+mifi/editly,4342,72,45,17,2,16.582,0,220,1306,16,JavaScript,false,23,### Miscellaneous,Miscellaneous
+ehmicky/wild-wild-path,628,3,0,0,0,4.777,21,21,599,1,JavaScript,false,4,### Miscellaneous,Miscellaneous
+sindresorhus/uint8array-extras,131,131,31,2,0,1000.000,5,4,20,2,JavaScript,false,4,### Miscellaneous,Miscellaneous
+goldbergyoni/nodebestpractices,93626,465,221,105,9,4.967,0,52,2250,231,Dockerfile,false,0,### Tutorials,Tutorials
+mattdesl/module-best-practices,1523,1,0,0,0,0.657,16,2949,3315,3,JavaScript,false,1,### Tutorials,Tutorials
+FredKSchott/the-node-way,1486,0,0,0,0,0.000,50,2854,3616,3,JavaScript,false,0,### Tutorials,Tutorials
+azat-co/you-dont-know-node,1495,1,0,0,0,0.669,24,1812,2959,7,Python,false,0,### Tutorials,Tutorials
+ehmicky/cross-platform-node-guide,1362,4,0,0,0,2.937,15,21,1757,4,JavaScript,false,1,### Tutorials,Tutorials
+stephenplusplus/stream-faqs,191,0,0,0,0,0.000,81,2968,3005,1,JavaScript,false,2,### Cheatsheets,Cheatsheets
+jesusprubio/strong-node,489,1,0,0,0,2.045,27,877,2756,3,JavaScript,false,2,### Cheatsheets,Cheatsheets
+amplication/amplication,12774,204,64,29,5,15.970,0,0,1281,238,TypeScript,false,0,### Tools,Tools
+sindresorhus/node-module-boilerplate,717,3,1,1,0,4.184,5,157,3166,8,JavaScript,false,2,### Miscellaneous,Miscellaneous
+sheerun/modern-node,242,1,1,0,0,4.132,13,803,2711,2,JavaScript,false,13,### Miscellaneous,Miscellaneous
+sindresorhus/generator-nm,742,0,0,0,0,0.000,77,157,3166,20,JavaScript,false,10,### Miscellaneous,Miscellaneous
+Microsoft/nodejs-guidelines,2488,4,2,2,0,1.608,2,349,2933,34,,false,0,### Miscellaneous,Miscellaneous
+sindresorhus/project-ideas,541,2,2,1,0,3.697,6,1125,3087,3,,false,0,### Miscellaneous,Miscellaneous
+thlorenz/v8-perf,2157,11,2,1,0,5.100,5,371,3448,6,JavaScript,false,3,### Miscellaneous,Miscellaneous
+sindresorhus/awesome-npm,4340,19,7,2,1,4.378,0,7,2860,46,,false,0,### Miscellaneous,Miscellaneous
+bcoe/awesome-cross-platform-nodejs,1114,7,2,0,0,6.284,12,466,2884,10,,false,0,### Miscellaneous,Miscellaneous
