@@ -1,8 +1,8 @@
 name: Update Awesome Node stats
 
 on:
-  schedule:
-    - cron: "0 13 * * *" # runs at 13:00 UTC everyday
+  #schedule:
+  #  - cron: "0 13 * * *" # runs at 13:00 UTC everyday
   workflow_dispatch:
 
 jobs:
